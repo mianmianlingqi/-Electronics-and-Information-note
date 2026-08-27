@@ -9,6 +9,10 @@
 2. **第二遍**：遮住答案，默写「公式墙」和「口诀」
 3. **第三遍**：只看「易混对比」和「大题步骤」
 
+## 在线速览
+
+[电子信息知识点速览](https://mianmianlingqi.github.io/-Electronics-and-Information-note/) — 从本目录 md 自动生成，修改背诵速记后运行 `node scripts/build.cjs` 重建。
+
 ## 文件目录
 
 | 文件 | 覆盖范围 |
