@@ -1,0 +1,4983 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-27T14:41:58.216Z",
+  "total": 310,
+  "subjects": [
+    {
+      "id": "circuit",
+      "prefix": "c",
+      "title": "电路分析",
+      "short": "电路",
+      "moduleAnchor": "circuit",
+      "count": 100
+    },
+    {
+      "id": "analog",
+      "prefix": "a",
+      "title": "模拟电子技术",
+      "short": "模电",
+      "moduleAnchor": "analog",
+      "count": 100
+    },
+    {
+      "id": "digital",
+      "prefix": "d",
+      "title": "数字电子技术",
+      "short": "数电",
+      "moduleAnchor": "digital",
+      "count": 110
+    }
+  ],
+  "chapters": [
+    {
+      "id": "circuit-1",
+      "subjectId": "circuit",
+      "title": "一、基本概念与定律（第1章 · 12 题）",
+      "chapterRef": "1",
+      "readAnchor": "c1",
+      "count": 12
+    },
+    {
+      "id": "circuit-2",
+      "subjectId": "circuit",
+      "title": "二、等效变换（第2章 · 8 题）",
+      "chapterRef": "2",
+      "readAnchor": "c2",
+      "count": 8
+    },
+    {
+      "id": "circuit-3",
+      "subjectId": "circuit",
+      "title": "三、分析方法（第3章 · 8 题）",
+      "chapterRef": "3",
+      "readAnchor": "c3",
+      "count": 8
+    },
+    {
+      "id": "circuit-4",
+      "subjectId": "circuit",
+      "title": "四、电路定理（第4章 · 12 题）",
+      "chapterRef": "4",
+      "readAnchor": "c4",
+      "count": 12
+    },
+    {
+      "id": "circuit-5",
+      "subjectId": "circuit",
+      "title": "五、暂态分析（第5章 · 15 题）",
+      "chapterRef": "5",
+      "readAnchor": "c5",
+      "count": 15
+    },
+    {
+      "id": "circuit-6",
+      "subjectId": "circuit",
+      "title": "六、交流电路（第6章 · 20 题）",
+      "chapterRef": "6",
+      "readAnchor": "c6",
+      "count": 20
+    },
+    {
+      "id": "circuit-7",
+      "subjectId": "circuit",
+      "title": "七、三相与复数（第7～8章 · 15 题）",
+      "chapterRef": null,
+      "readAnchor": "circuit",
+      "count": 15
+    },
+    {
+      "id": "circuit-8",
+      "subjectId": "circuit",
+      "title": "八、综合易混（10 题）",
+      "chapterRef": null,
+      "readAnchor": "circuit",
+      "count": 10
+    },
+    {
+      "id": "analog-1",
+      "subjectId": "analog",
+      "title": "一、半导体与 PN 结（第1～1.2章 · 15 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 15
+    },
+    {
+      "id": "analog-2",
+      "subjectId": "analog",
+      "title": "二、二极管（第1.3～1.4章 · 12 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 12
+    },
+    {
+      "id": "analog-3",
+      "subjectId": "analog",
+      "title": "三、三极管结构与静态（第2.1～2.4章 · 18 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 18
+    },
+    {
+      "id": "analog-4",
+      "subjectId": "analog",
+      "title": "四、三种组态（第2.5章 · 15 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 15
+    },
+    {
+      "id": "analog-5",
+      "subjectId": "analog",
+      "title": "五、多级放大与运放（第2.6、3章 · 20 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 15
+    },
+    {
+      "id": "analog-6",
+      "subjectId": "analog",
+      "title": "六、反馈（第4章 · 10 题）",
+      "chapterRef": "4",
+      "readAnchor": "a4",
+      "count": 10
+    },
+    {
+      "id": "analog-7",
+      "subjectId": "analog",
+      "title": "七、综合易混（10 题）",
+      "chapterRef": null,
+      "readAnchor": "analog",
+      "count": 15
+    },
+    {
+      "id": "digital-1",
+      "subjectId": "digital",
+      "title": "一、概论与数制（第1～2章 · 12 题）",
+      "chapterRef": null,
+      "readAnchor": "digital",
+      "count": 12
+    },
+    {
+      "id": "digital-2",
+      "subjectId": "digital",
+      "title": "二、逻辑代数（第3章 · 15 题）",
+      "chapterRef": "3",
+      "readAnchor": "d3",
+      "count": 15
+    },
+    {
+      "id": "digital-3",
+      "subjectId": "digital",
+      "title": "三、最小项与门电路（第4～5章 · 13 题）",
+      "chapterRef": null,
+      "readAnchor": "digital",
+      "count": 13
+    },
+    {
+      "id": "digital-4",
+      "subjectId": "digital",
+      "title": "四、组合逻辑（第6章 · 10 题）",
+      "chapterRef": "6",
+      "readAnchor": "d6",
+      "count": 10
+    },
+    {
+      "id": "digital-5",
+      "subjectId": "digital",
+      "title": "五、常用组合器件（第7章 · 18 题）",
+      "chapterRef": "7",
+      "readAnchor": "d7",
+      "count": 18
+    },
+    {
+      "id": "digital-6",
+      "subjectId": "digital",
+      "title": "六、触发器（第8章 · 12 题）",
+      "chapterRef": "8",
+      "readAnchor": "d8",
+      "count": 12
+    },
+    {
+      "id": "digital-7",
+      "subjectId": "digital",
+      "title": "七、时序逻辑与计数器（第9～10B章 · 12 题）",
+      "chapterRef": null,
+      "readAnchor": "digital",
+      "count": 16
+    },
+    {
+      "id": "digital-8",
+      "subjectId": "digital",
+      "title": "八、ADC/DAC 与综合（第11章 · 8 题）",
+      "chapterRef": "11",
+      "readAnchor": "d11",
+      "count": 14
+    }
+  ],
+  "cards": [
+    {
+      "id": "circuit-001",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 1,
+      "prompt": "电路三要素是 ________、________、________。",
+      "promptHtml": "电路三要素是 <span class=\"blank\">______</span>、<span class=\"blank\">______</span>、<span class=\"blank\">______</span>。",
+      "answers": [
+        "电源",
+        "负载",
+        "中间环节"
+      ],
+      "answerText": "电源；负载；中间环节",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-002",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 2,
+      "prompt": "五种理想元件除 R、L、C 外，还有 ________ 和 ________。",
+      "promptHtml": "五种理想元件除 R、L、C 外，还有 <span class=\"blank\">______</span> 和 <span class=\"blank\">______</span>。",
+      "answers": [
+        "电压源",
+        "电流源"
+      ],
+      "answerText": "电压源；电流源",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-003",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 3,
+      "prompt": "1 度电 = 1 kWh = ________ MJ。",
+      "promptHtml": "1 度电 = 1 kWh = <span class=\"blank\">______</span> MJ。",
+      "answers": [
+        "3.6"
+      ],
+      "answerText": "3.6",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-004",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 4,
+      "prompt": "电导 G = 1/R，单位是 ________。",
+      "promptHtml": "电导 G = 1/R，单位是 <span class=\"blank\">______</span>。",
+      "answers": [
+        "西门子（S）"
+      ],
+      "answerText": "西门子（S）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-005",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 5,
+      "prompt": "**关联参考方向**指 u、i 参考方向 ________；不一致为 ________。",
+      "promptHtml": "<strong>关联参考方向</strong>指 u、i 参考方向 <span class=\"blank\">______</span>；不一致为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "一致",
+        "非关联"
+      ],
+      "answerText": "一致；非关联",
+      "blankCount": 2,
+      "must": true,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-006",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 6,
+      "prompt": "关联方向下 p = ________；非关联方向下 p = ________。",
+      "promptHtml": "关联方向下 p = <span class=\"blank\">______</span>；非关联方向下 p = <span class=\"blank\">______</span>。",
+      "answers": [
+        "ui",
+        "−ui"
+      ],
+      "answerText": "ui；−ui",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-007",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 7,
+      "prompt": "KCL：任一节点，各支路电流 ________ = 0。",
+      "promptHtml": "KCL：任一节点，各支路电流 <span class=\"blank\">______</span> = 0。",
+      "answers": [
+        "代数和"
+      ],
+      "answerText": "代数和",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-008",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 8,
+      "prompt": "KVL：任一回路，各支路电压 ________ = 0。",
+      "promptHtml": "KVL：任一回路，各支路电压 <span class=\"blank\">______</span> = 0。",
+      "answers": [
+        "代数和"
+      ],
+      "answerText": "代数和",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-009",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 9,
+      "prompt": "关联方向下 P>0 表示 ________ 功率；P<0 表示 ________ 功率。",
+      "promptHtml": "关联方向下 P>0 表示 <span class=\"blank\">______</span> 功率；P<0 表示 <span class=\"blank\">______</span> 功率。",
+      "answers": [
+        "吸收",
+        "发出"
+      ],
+      "answerText": "吸收；发出",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-010",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 10,
+      "prompt": "恒压源口诀：并联看 ________，串联看 ________。",
+      "promptHtml": "恒压源口诀：并联看 <span class=\"blank\">______</span>，串联看 <span class=\"blank\">______</span>。",
+      "answers": [
+        "电压",
+        "电流"
+      ],
+      "answerText": "电压；电流",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-011",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 11,
+      "prompt": "不同恒压源 ________ 直接并联；不同恒流源 ________ 串联。",
+      "promptHtml": "不同恒压源 <span class=\"blank\">______</span> 直接并联；不同恒流源 <span class=\"blank\">______</span> 串联。",
+      "answers": [
+        "不能",
+        "不能"
+      ],
+      "answerText": "不能；不能",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-012",
+      "subjectId": "circuit",
+      "chapterId": "circuit-1",
+      "num": 12,
+      "prompt": "戴维南等效时，受控源 ________ 去掉控制量。",
+      "promptHtml": "戴维南等效时，受控源 <span class=\"blank\">______</span> 去掉控制量。",
+      "answers": [
+        "不可"
+      ],
+      "answerText": "不可",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c1"
+    },
+    {
+      "id": "circuit-013",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 13,
+      "prompt": "串联电阻：Req = ________；并联：1/Req = ________。",
+      "promptHtml": "串联电阻：Req = <span class=\"blank\">______</span>；并联：1/Req = <span class=\"blank\">______</span>。",
+      "answers": [
+        "R₁+R₂+…",
+        "1"
+      ],
+      "answerText": "R₁+R₂+…；1/R₁+1/R₂+…",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-014",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 14,
+      "prompt": "两电阻并联分流：i₁ = ________ · i（用 R₁、R₂ 表示）。",
+      "promptHtml": "两电阻并联分流：i₁ = <span class=\"blank\">______</span> · i（用 R₁、R₂ 表示）。",
+      "answers": [
+        "R₂"
+      ],
+      "answerText": "R₂/(R₁+R₂)",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-015",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 15,
+      "prompt": "口诀：串联 ________，并联 ________。",
+      "promptHtml": "口诀：串联 <span class=\"blank\">______</span>，并联 <span class=\"blank\">______</span>。",
+      "answers": [
+        "分压",
+        "分流"
+      ],
+      "answerText": "分压；分流",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-016",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 16,
+      "prompt": "等效变换原则：**对外等效，对内 ________**。",
+      "promptHtml": "等效变换原则：<strong>对外等效，对内 <span class=\"blank\">______</span></strong>。",
+      "answers": [
+        "不等效"
+      ],
+      "answerText": "不等效",
+      "blankCount": 1,
+      "must": true,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-017",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 17,
+      "prompt": "实际恒压源串 R 与恒流源并 R，对外 ________（等效/不等效）。",
+      "promptHtml": "实际恒压源串 R 与恒流源并 R，对外 <span class=\"blank\">______</span>（等效/不等效）。",
+      "answers": [
+        "等效"
+      ],
+      "answerText": "等效",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-018",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 18,
+      "prompt": "恒流源串联的那支路电流等于 ________。",
+      "promptHtml": "恒流源串联的那支路电流等于 <span class=\"blank\">______</span>。",
+      "answers": [
+        "Is（恒流源电流）"
+      ],
+      "answerText": "Is（恒流源电流）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-019",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 19,
+      "prompt": "△→Y 变换：R₁ 的分子为 R₁₂·R₃₁，分母为三电阻 ________。",
+      "promptHtml": "△→Y 变换：R₁ 的分子为 R₁₂·R₃₁，分母为三电阻 <span class=\"blank\">______</span>。",
+      "answers": [
+        "之和"
+      ],
+      "answerText": "之和",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-020",
+      "subjectId": "circuit",
+      "chapterId": "circuit-2",
+      "num": 20,
+      "prompt": "Y→△ 变换口诀：分子变 ________，分母变分子。",
+      "promptHtml": "Y→△ 变换口诀：分子变 <span class=\"blank\">______</span>，分母变分子。",
+      "answers": [
+        "分母"
+      ],
+      "answerText": "分母",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c2"
+    },
+    {
+      "id": "circuit-021",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 21,
+      "prompt": "支路电流法未知量是 ________；网孔电流法仅适用于 ________ 电路。",
+      "promptHtml": "支路电流法未知量是 <span class=\"blank\">______</span>；网孔电流法仅适用于 <span class=\"blank\">______</span> 电路。",
+      "answers": [
+        "支路电流",
+        "平面"
+      ],
+      "answerText": "支路电流；平面",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-022",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 22,
+      "prompt": "节点电压法列的是 ________ 方程。",
+      "promptHtml": "节点电压法列的是 <span class=\"blank\">______</span> 方程。",
+      "answers": [
+        "KCL（节点）"
+      ],
+      "answerText": "KCL（节点）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-023",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 23,
+      "prompt": "网孔法口诀：自阻 ________，互阻看方向。",
+      "promptHtml": "网孔法口诀：自阻 <span class=\"blank\">______</span>，互阻看方向。",
+      "answers": [
+        "正"
+      ],
+      "answerText": "正",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-024",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 24,
+      "prompt": "独立网孔/回路方程数 l = b − (________)。",
+      "promptHtml": "独立网孔/回路方程数 l = b − (<span class=\"blank\">______</span>)。",
+      "answers": [
+        "n−1"
+      ],
+      "answerText": "n−1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-025",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 25,
+      "prompt": "节点法方程数为 ________。",
+      "promptHtml": "节点法方程数为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "n−1"
+      ],
+      "answerText": "n−1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-026",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 26,
+      "prompt": "支路电流法是大题 ________ 题常考方法。",
+      "promptHtml": "支路电流法是大题 <span class=\"blank\">______</span> 题常考方法。",
+      "answers": [
+        "第一"
+      ],
+      "answerText": "第一",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-027",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 27,
+      "prompt": "节点少时最快的方法是 ________ 电压法。",
+      "promptHtml": "节点少时最快的方法是 <span class=\"blank\">______</span> 电压法。",
+      "answers": [
+        "节点"
+      ],
+      "answerText": "节点",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-028",
+      "subjectId": "circuit",
+      "chapterId": "circuit-3",
+      "num": 28,
+      "prompt": "网孔电流法的未知量是 ________ 电流。",
+      "promptHtml": "网孔电流法的未知量是 <span class=\"blank\">______</span> 电流。",
+      "answers": [
+        "网孔"
+      ],
+      "answerText": "网孔",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c3"
+    },
+    {
+      "id": "circuit-029",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 29,
+      "prompt": "叠加定理：线性电路中响应 = 各独立源单独作用响应的 ________。",
+      "promptHtml": "叠加定理：线性电路中响应 = 各独立源单独作用响应的 <span class=\"blank\">______</span>。",
+      "answers": [
+        "代数和"
+      ],
+      "answerText": "代数和",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-030",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 30,
+      "prompt": "叠加定理四忌之一：________ 不能叠加。",
+      "promptHtml": "叠加定理四忌之一：<span class=\"blank\">______</span> 不能叠加。",
+      "answers": [
+        "功率"
+      ],
+      "answerText": "功率",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-031",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 31,
+      "prompt": "齐次定理：所有激励同乘 K，响应也乘 ________。",
+      "promptHtml": "齐次定理：所有激励同乘 K，响应也乘 <span class=\"blank\">______</span>。",
+      "answers": [
+        "K"
+      ],
+      "answerText": "K",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-032",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 32,
+      "prompt": "独立源置零：电压源 ________，电流源 ________。",
+      "promptHtml": "独立源置零：电压源 <span class=\"blank\">______</span>，电流源 <span class=\"blank\">______</span>。",
+      "answers": [
+        "短路",
+        "开路"
+      ],
+      "answerText": "短路；开路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-033",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 33,
+      "prompt": "叠加定理中受控源 ________（保留/去掉）。",
+      "promptHtml": "叠加定理中受控源 <span class=\"blank\">______</span>（保留/去掉）。",
+      "answers": [
+        "保留"
+      ],
+      "answerText": "保留",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-034",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 34,
+      "prompt": "戴维南等效为 ________ 串 Req；诺顿等效为 ________ 并 Req。",
+      "promptHtml": "戴维南等效为 <span class=\"blank\">______</span> 串 Req；诺顿等效为 <span class=\"blank\">______</span> 并 Req。",
+      "answers": [
+        "Uoc",
+        "Isc"
+      ],
+      "answerText": "Uoc；Isc",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-035",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 35,
+      "prompt": "戴维南步骤第一步求 ________ 或 ________。",
+      "promptHtml": "戴维南步骤第一步求 <span class=\"blank\">______</span> 或 <span class=\"blank\">______</span>。",
+      "answers": [
+        "Uoc",
+        "Isc"
+      ],
+      "answerText": "Uoc；Isc",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-036",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 36,
+      "prompt": "最大功率传输条件：RL = ________。",
+      "promptHtml": "最大功率传输条件：RL = <span class=\"blank\">______</span>。",
+      "answers": [
+        "Req（等效电阻）"
+      ],
+      "answerText": "Req（等效电阻）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-037",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 37,
+      "prompt": "Pmax = Uoc² / (________ Req)。",
+      "promptHtml": "Pmax = Uoc² / (<span class=\"blank\">______</span> Req)。",
+      "answers": [
+        "4"
+      ],
+      "answerText": "4",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-038",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 38,
+      "prompt": "替代定理：已知支路 Uk，可用 ________ 源替代。",
+      "promptHtml": "替代定理：已知支路 Uk，可用 <span class=\"blank\">______</span> 源替代。",
+      "answers": [
+        "恒压"
+      ],
+      "answerText": "恒压",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-039",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 39,
+      "prompt": "替代定理：已知支路 Ik，可用 ________ 源替代。",
+      "promptHtml": "替代定理：已知支路 Ik，可用 <span class=\"blank\">______</span> 源替代。",
+      "answers": [
+        "恒流"
+      ],
+      "answerText": "恒流",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-040",
+      "subjectId": "circuit",
+      "chapterId": "circuit-4",
+      "num": 40,
+      "prompt": "叠加定理只适用于 ________ 电路。",
+      "promptHtml": "叠加定理只适用于 <span class=\"blank\">______</span> 电路。",
+      "answers": [
+        "线性"
+      ],
+      "answerText": "线性",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c4"
+    },
+    {
+      "id": "circuit-041",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 41,
+      "prompt": "换路定则：iL(0+) = ________，uC(0+) = ________。",
+      "promptHtml": "换路定则：iL(0+) = <span class=\"blank\">______</span>，uC(0+) = <span class=\"blank\">______</span>。",
+      "answers": [
+        "iL(0−)",
+        "uC(0−)"
+      ],
+      "answerText": "iL(0−)；uC(0−)",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-042",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 42,
+      "prompt": "只有 ________ 和 ________ 不能突变。",
+      "promptHtml": "只有 <span class=\"blank\">______</span> 和 <span class=\"blank\">______</span> 不能突变。",
+      "answers": [
+        "iL",
+        "uC"
+      ],
+      "answerText": "iL；uC",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-043",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 43,
+      "prompt": "直流稳态时，电感相当于 ________，电容相当于 ________。",
+      "promptHtml": "直流稳态时，电感相当于 <span class=\"blank\">______</span>，电容相当于 <span class=\"blank\">______</span>。",
+      "answers": [
+        "短路",
+        "开路"
+      ],
+      "answerText": "短路；开路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-044",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 44,
+      "prompt": "RC 时间常数 τ = ________；RL 时间常数 τ = ________。",
+      "promptHtml": "RC 时间常数 τ = <span class=\"blank\">______</span>；RL 时间常数 τ = <span class=\"blank\">______</span>。",
+      "answers": [
+        "Req·C",
+        "L"
+      ],
+      "answerText": "Req·C；L/Req",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-045",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 45,
+      "prompt": "三要素法公式：f(t) = f(∞) + [f(0+) − f(∞)] · ________。",
+      "promptHtml": "三要素法公式：f(t) = f(∞) + [f(0+) − f(∞)] · <span class=\"blank\">______</span>。",
+      "answers": [
+        "e^(−t"
+      ],
+      "answerText": "e^(−t/τ)",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-046",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 46,
+      "prompt": "三要素法适用于 ________ 电路。",
+      "promptHtml": "三要素法适用于 <span class=\"blank\">______</span> 电路。",
+      "answers": [
+        "一阶"
+      ],
+      "answerText": "一阶",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-047",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 47,
+      "prompt": "零输入响应：无 ________，靠初始储能。",
+      "promptHtml": "零输入响应：无 <span class=\"blank\">______</span>，靠初始储能。",
+      "answers": [
+        "激励"
+      ],
+      "answerText": "激励",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-048",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 48,
+      "prompt": "零状态响应：初始为 ________，靠激励。",
+      "promptHtml": "零状态响应：初始为 <span class=\"blank\">______</span>，靠激励。",
+      "answers": [
+        "零"
+      ],
+      "answerText": "零",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-049",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 49,
+      "prompt": "全响应：初始 ≠ 0 且 ________。",
+      "promptHtml": "全响应：初始 ≠ 0 且 <span class=\"blank\">______</span>。",
+      "answers": [
+        "有激励"
+      ],
+      "answerText": "有激励",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-050",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 50,
+      "prompt": "电容串联等效于电阻 ________；电容并联等效于电阻 ________。",
+      "promptHtml": "电容串联等效于电阻 <span class=\"blank\">______</span>；电容并联等效于电阻 <span class=\"blank\">______</span>。",
+      "answers": [
+        "并联",
+        "串联"
+      ],
+      "answerText": "并联；串联",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-051",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 51,
+      "prompt": "电感串联等效于电阻 ________；电感并联等效于电阻 ________。",
+      "promptHtml": "电感串联等效于电阻 <span class=\"blank\">______</span>；电感并联等效于电阻 <span class=\"blank\">______</span>。",
+      "answers": [
+        "串联",
+        "并联"
+      ],
+      "answerText": "串联；并联",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-052",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 52,
+      "prompt": "Req 是从 L 或 C 端子看进去的 ________ 电阻（换路后电路）。",
+      "promptHtml": "Req 是从 L 或 C 端子看进去的 <span class=\"blank\">______</span> 电阻（换路后电路）。",
+      "answers": [
+        "戴维南"
+      ],
+      "answerText": "戴维南",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-053",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 53,
+      "prompt": "iC = C · duC / ________；uL = L · diL / ________。",
+      "promptHtml": "iC = C · duC / <span class=\"blank\">______</span>；uL = L · diL / <span class=\"blank\">______</span>。",
+      "answers": [
+        "dt",
+        "dt"
+      ],
+      "answerText": "dt；dt",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-054",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 54,
+      "prompt": "三要素法第一步：t = 0− 时求 ________ 稳态。",
+      "promptHtml": "三要素法第一步：t = 0− 时求 <span class=\"blank\">______</span> 稳态。",
+      "answers": [
+        "0−"
+      ],
+      "answerText": "0−",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-055",
+      "subjectId": "circuit",
+      "chapterId": "circuit-5",
+      "num": 55,
+      "prompt": "三要素法第四步：t → ∞ 求 ________。",
+      "promptHtml": "三要素法第四步：t → ∞ 求 <span class=\"blank\">______</span>。",
+      "answers": [
+        "f(∞)"
+      ],
+      "answerText": "f(∞)",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c5"
+    },
+    {
+      "id": "circuit-056",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 56,
+      "prompt": "正弦三要素：幅值、________、初相。",
+      "promptHtml": "正弦三要素：幅值、<span class=\"blank\">______</span>、初相。",
+      "answers": [
+        "角频率（ω）"
+      ],
+      "answerText": "角频率（ω）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-057",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 57,
+      "prompt": "有效值 U = Um / ________；ω = 2π ________。",
+      "promptHtml": "有效值 U = Um / <span class=\"blank\">______</span>；ω = 2π <span class=\"blank\">______</span>。",
+      "answers": [
+        "√2",
+        "f"
+      ],
+      "answerText": "√2；f",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-058",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 58,
+      "prompt": "元件口诀：**感压容流**——电感电压 ________ 电流 90°。",
+      "promptHtml": "元件口诀：<strong>感压容流</strong>——电感电压 <span class=\"blank\">______</span> 电流 90°。",
+      "answers": [
+        "超前"
+      ],
+      "answerText": "超前",
+      "blankCount": 1,
+      "must": true,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-059",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 59,
+      "prompt": "电容电流 ________ 电压 90°。",
+      "promptHtml": "电容电流 <span class=\"blank\">______</span> 电压 90°。",
+      "answers": [
+        "超前"
+      ],
+      "answerText": "超前",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-060",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 60,
+      "prompt": "感抗 XL = ________；容抗 XC = ________。",
+      "promptHtml": "感抗 XL = <span class=\"blank\">______</span>；容抗 XC = <span class=\"blank\">______</span>。",
+      "answers": [
+        "ωL",
+        "1"
+      ],
+      "answerText": "ωL；1/(ωC)",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-061",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 61,
+      "prompt": "ZL = j ________ L；ZC = −j / (________ C)。",
+      "promptHtml": "ZL = j <span class=\"blank\">______</span> L；ZC = −j / (<span class=\"blank\">______</span> C)。",
+      "answers": [
+        "ω",
+        "ω"
+      ],
+      "answerText": "ω；ω",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-062",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 62,
+      "prompt": "RLC 串联阻抗 Z = R + j(________ − ________)。",
+      "promptHtml": "RLC 串联阻抗 Z = R + j(<span class=\"blank\">______</span> − <span class=\"blank\">______</span>)。",
+      "answers": [
+        "XL",
+        "XC"
+      ],
+      "answerText": "XL；XC",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-063",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 63,
+      "prompt": "有功功率 P = UI ________ φ（单位 W）。",
+      "promptHtml": "有功功率 P = UI <span class=\"blank\">______</span> φ（单位 W）。",
+      "answers": [
+        "cos"
+      ],
+      "answerText": "cos",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-064",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 64,
+      "prompt": "无功功率 Q = UI ________ φ（单位 var）。",
+      "promptHtml": "无功功率 Q = UI <span class=\"blank\">______</span> φ（单位 var）。",
+      "answers": [
+        "sin"
+      ],
+      "answerText": "sin",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-065",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 65,
+      "prompt": "视在功率 S = UI = √(________² + Q²)（单位 VA）。",
+      "promptHtml": "视在功率 S = UI = √(<span class=\"blank\">______</span>² + Q²)（单位 VA）。",
+      "answers": [
+        "P"
+      ],
+      "answerText": "P",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-066",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 66,
+      "prompt": "纯电阻元件 Q = ________；纯电感 Q 为 ________（正/负）。",
+      "promptHtml": "纯电阻元件 Q = <span class=\"blank\">______</span>；纯电感 Q 为 <span class=\"blank\">______</span>（正/负）。",
+      "answers": [
+        "0",
+        "正"
+      ],
+      "answerText": "0；正",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-067",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 67,
+      "prompt": "X > 0 为 ________ 性；X < 0 为 ________ 性。",
+      "promptHtml": "X > 0 为 <span class=\"blank\">______</span> 性；X < 0 为 <span class=\"blank\">______</span> 性。",
+      "answers": [
+        "感",
+        "容"
+      ],
+      "answerText": "感；容",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-068",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 68,
+      "prompt": "串联谐振条件：XL ________ XC；此时阻抗 ________（最大/最小）。",
+      "promptHtml": "串联谐振条件：XL <span class=\"blank\">______</span> XC；此时阻抗 <span class=\"blank\">______</span>（最大/最小）。",
+      "answers": [
+        "=",
+        "最小"
+      ],
+      "answerText": "=；最小",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-069",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 69,
+      "prompt": "串联谐振时电流 ________（最大/最小），u 与 i ________ 相。",
+      "promptHtml": "串联谐振时电流 <span class=\"blank\">______</span>（最大/最小），u 与 i <span class=\"blank\">______</span> 相。",
+      "answers": [
+        "最大",
+        "同"
+      ],
+      "answerText": "最大；同",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-070",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 70,
+      "prompt": "串联谐振角频率 ω₀ = 1 / ________。",
+      "promptHtml": "串联谐振角频率 ω₀ = 1 / <span class=\"blank\">______</span>。",
+      "answers": [
+        "√(LC)"
+      ],
+      "answerText": "√(LC)",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-071",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 71,
+      "prompt": "品质因数 Q = (1/R)√(L/________)。",
+      "promptHtml": "品质因数 Q = (1/R)√(L/<span class=\"blank\">______</span>)。",
+      "answers": [
+        "C"
+      ],
+      "answerText": "C",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-072",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 72,
+      "prompt": "并联谐振时导纳 ________（最大/最小），总电流 ________（最大/最小）。",
+      "promptHtml": "并联谐振时导纳 <span class=\"blank\">______</span>（最大/最小），总电流 <span class=\"blank\">______</span>（最大/最小）。",
+      "answers": [
+        "最小",
+        "最小"
+      ],
+      "answerText": "最小；最小",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-073",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 73,
+      "prompt": "比较相位差前，各正弦量 ω 必须 ________。",
+      "promptHtml": "比较相位差前，各正弦量 ω 必须 <span class=\"blank\">______</span>。",
+      "answers": [
+        "相同"
+      ],
+      "answerText": "相同",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-074",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 74,
+      "prompt": "cos(ωt) 化为 sin：cos(ωt) = sin(ωt + ________°)。",
+      "promptHtml": "cos(ωt) 化为 sin：cos(ωt) = sin(ωt + <span class=\"blank\">______</span>°)。",
+      "answers": [
+        "90"
+      ],
+      "answerText": "90",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-075",
+      "subjectId": "circuit",
+      "chapterId": "circuit-6",
+      "num": 75,
+      "prompt": "乘 j 表示相量逆时针转 ________°；乘 1/j 表示 ________ 转 90°。",
+      "promptHtml": "乘 j 表示相量逆时针转 <span class=\"blank\">______</span>°；乘 1/j 表示 <span class=\"blank\">______</span> 转 90°。",
+      "answers": [
+        "90",
+        "顺时针（滞后）"
+      ],
+      "answerText": "90；顺时针（滞后）",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "c6"
+    },
+    {
+      "id": "circuit-076",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 76,
+      "prompt": "三相电源相位互差 ________°。",
+      "promptHtml": "三相电源相位互差 <span class=\"blank\">______</span>°。",
+      "answers": [
+        "120"
+      ],
+      "answerText": "120",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-077",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 77,
+      "prompt": "Y 形连接：U线 = ________ U相；I线 ________ I相（填 = 或 ≠）。",
+      "promptHtml": "Y 形连接：U线 = <span class=\"blank\">______</span> U相；I线 <span class=\"blank\">______</span> I相（填 = 或 ≠）。",
+      "answers": [
+        "√3",
+        "="
+      ],
+      "answerText": "√3；=",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-078",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 78,
+      "prompt": "Δ 形连接：U线 ________ U相；I线 = ________ I相。",
+      "promptHtml": "Δ 形连接：U线 <span class=\"blank\">______</span> U相；I线 = <span class=\"blank\">______</span> I相。",
+      "answers": [
+        "=",
+        "√3"
+      ],
+      "answerText": "=；√3",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-079",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 79,
+      "prompt": "对称三相有功功率 P = ________ U线 I线 cos φ。",
+      "promptHtml": "对称三相有功功率 P = <span class=\"blank\">______</span> U线 I线 cos φ。",
+      "answers": [
+        "√3"
+      ],
+      "answerText": "√3",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-080",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 80,
+      "prompt": "线电压超前相电压 30° 对应 ________ 形连接。",
+      "promptHtml": "线电压超前相电压 30° 对应 <span class=\"blank\">______</span> 形连接。",
+      "answers": [
+        "Y（星）"
+      ],
+      "answerText": "Y（星）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-081",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 81,
+      "prompt": "复数代数式 A = a + ________ b（虚部系数）。",
+      "promptHtml": "复数代数式 A = a + <span class=\"blank\">______</span> b（虚部系数）。",
+      "answers": [
+        "j"
+      ],
+      "answerText": "j",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-082",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 82,
+      "prompt": "欧拉公式 e^(jθ) = cos θ + j ________ θ。",
+      "promptHtml": "欧拉公式 e^(jθ) = cos θ + j <span class=\"blank\">______</span> θ。",
+      "answers": [
+        "sin"
+      ],
+      "answerText": "sin",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-083",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 83,
+      "prompt": "相量 İ = I∠Ψ 中 Ψ 表示 ________。",
+      "promptHtml": "相量 İ = I∠Ψ 中 Ψ 表示 <span class=\"blank\">______</span>。",
+      "answers": [
+        "初相"
+      ],
+      "answerText": "初相",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-084",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 84,
+      "prompt": "共轭复数 (a+jb)* = a − ________ b。",
+      "promptHtml": "共轭复数 (a+jb)* = a − <span class=\"blank\">______</span> b。",
+      "answers": [
+        "j"
+      ],
+      "answerText": "j",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-085",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 85,
+      "prompt": "相量图法第一步：选 ________ 相量为参考（常选 U 或 I）。",
+      "promptHtml": "相量图法第一步：选 <span class=\"blank\">______</span> 相量为参考（常选 U 或 I）。",
+      "answers": [
+        "参考"
+      ],
+      "answerText": "参考",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-086",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 86,
+      "prompt": "相量运算应使用 ________ 值，不是峰值。",
+      "promptHtml": "相量运算应使用 <span class=\"blank\">______</span> 值，不是峰值。",
+      "answers": [
+        "有效"
+      ],
+      "answerText": "有效",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-087",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 87,
+      "prompt": "交流稳态下 i、u 用小写；直流稳态用大写 ________、________。",
+      "promptHtml": "交流稳态下 i、u 用小写；直流稳态用大写 <span class=\"blank\">______</span>、<span class=\"blank\">______</span>。",
+      "answers": [
+        "I",
+        "U"
+      ],
+      "answerText": "I；U",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-088",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 88,
+      "prompt": "电压源置零相当于 ________；电流源置零相当于 ________。",
+      "promptHtml": "电压源置零相当于 <span class=\"blank\">______</span>；电流源置零相当于 <span class=\"blank\">______</span>。",
+      "answers": [
+        "短路",
+        "开路"
+      ],
+      "answerText": "短路；开路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-089",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 89,
+      "prompt": "电感稳态相当于 ________；电容稳态相当于 ________。",
+      "promptHtml": "电感稳态相当于 <span class=\"blank\">______</span>；电容稳态相当于 <span class=\"blank\">______</span>。",
+      "answers": [
+        "短路",
+        "开路"
+      ],
+      "answerText": "短路；开路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-090",
+      "subjectId": "circuit",
+      "chapterId": "circuit-7",
+      "num": 90,
+      "prompt": "串联谐振阻抗最小、电流最大；并联谐振导纳最小、电流 ________。",
+      "promptHtml": "串联谐振阻抗最小、电流最大；并联谐振导纳最小、电流 <span class=\"blank\">______</span>。",
+      "answers": [
+        "最小"
+      ],
+      "answerText": "最小",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-091",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 91,
+      "prompt": "两阻抗并联：Z = Z₁Z₂ / (________)。",
+      "promptHtml": "两阻抗并联：Z = Z₁Z₂ / (<span class=\"blank\">______</span>)。",
+      "answers": [
+        "Z₁+Z₂"
+      ],
+      "answerText": "Z₁+Z₂",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-092",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 92,
+      "prompt": "实际线圈直流求 ________；交流求 ________。",
+      "promptHtml": "实际线圈直流求 <span class=\"blank\">______</span>；交流求 <span class=\"blank\">______</span>。",
+      "answers": [
+        "R",
+        "Z"
+      ],
+      "answerText": "R；Z",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-093",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 93,
+      "prompt": "对称三相无功功率 Q = ________ U线 I线 sin φ。",
+      "promptHtml": "对称三相无功功率 Q = <span class=\"blank\">______</span> U线 I线 sin φ。",
+      "answers": [
+        "√3"
+      ],
+      "answerText": "√3",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-094",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 94,
+      "prompt": "反演规则：运算 · ↔ +，0/1 互换，变量原↔ ________。",
+      "promptHtml": "反演规则：运算 · ↔ +，0/1 互换，变量原↔ <span class=\"blank\">______</span>。",
+      "answers": [
+        "反"
+      ],
+      "answerText": "反",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-095",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 95,
+      "prompt": "对偶规则：运算 · ↔ +，0/1 互换，变量 ________。",
+      "promptHtml": "对偶规则：运算 · ↔ +，0/1 互换，变量 <span class=\"blank\">______</span>。",
+      "answers": [
+        "不变"
+      ],
+      "answerText": "不变",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-096",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 96,
+      "prompt": "支路电流法流程：标方向 → KCL + ________ → 解方程。",
+      "promptHtml": "支路电流法流程：标方向 → KCL + <span class=\"blank\">______</span> → 解方程。",
+      "answers": [
+        "KVL"
+      ],
+      "answerText": "KVL",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-097",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 97,
+      "prompt": "戴维南流程：Uoc → Req → 等效 → 接 ________。",
+      "promptHtml": "戴维南流程：Uoc → Req → 等效 → 接 <span class=\"blank\">______</span>。",
+      "answers": [
+        "负载"
+      ],
+      "answerText": "负载",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-098",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 98,
+      "prompt": "三要素流程：0− → 换路 → τ → ∞ → ________。",
+      "promptHtml": "三要素流程：0− → 换路 → τ → ∞ → <span class=\"blank\">______</span>。",
+      "answers": [
+        "公式"
+      ],
+      "answerText": "公式",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-099",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 99,
+      "prompt": "交流并联分析：各支路 ________ 相同 → 各 I = U/Z → 相量相加。",
+      "promptHtml": "交流并联分析：各支路 <span class=\"blank\">______</span> 相同 → 各 I = U/Z → 相量相加。",
+      "answers": [
+        "U（电压）"
+      ],
+      "answerText": "U（电压）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "circuit-100",
+      "subjectId": "circuit",
+      "chapterId": "circuit-8",
+      "num": 100,
+      "prompt": "电位公式：Vab = Va − Vb = ________ Vba。",
+      "promptHtml": "电位公式：Vab = Va − Vb = <span class=\"blank\">______</span> Vba。",
+      "answers": [
+        "−"
+      ],
+      "answerText": "−",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "circuit"
+    },
+    {
+      "id": "analog-001",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 1,
+      "prompt": "本征半导体是完全纯净无杂质的 ________ 晶体。",
+      "promptHtml": "本征半导体是完全纯净无杂质的 <span class=\"blank\">______</span> 晶体。",
+      "answers": [
+        "单"
+      ],
+      "answerText": "单",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-002",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 2,
+      "prompt": "N 型半导体掺 ________ 价元素，多子是 ________。",
+      "promptHtml": "N 型半导体掺 <span class=\"blank\">______</span> 价元素，多子是 <span class=\"blank\">______</span>。",
+      "answers": [
+        "五",
+        "电子"
+      ],
+      "answerText": "五；电子",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-003",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 3,
+      "prompt": "P 型半导体多子是 ________；口诀：N ________，P ________。",
+      "promptHtml": "P 型半导体多子是 <span class=\"blank\">______</span>；口诀：N <span class=\"blank\">______</span>，P <span class=\"blank\">______</span>。",
+      "answers": [
+        "空穴",
+        "电子",
+        "空穴"
+      ],
+      "answerText": "空穴；电子；空穴",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-004",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 4,
+      "prompt": "半导体特性：热敏性、________ 性、掺杂性。",
+      "promptHtml": "半导体特性：热敏性、<span class=\"blank\">______</span> 性、掺杂性。",
+      "answers": [
+        "光敏"
+      ],
+      "answerText": "光敏",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-005",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 5,
+      "prompt": "正偏：P 接 ________ 电位，N 接低电位。",
+      "promptHtml": "正偏：P 接 <span class=\"blank\">______</span> 电位，N 接低电位。",
+      "answers": [
+        "高"
+      ],
+      "answerText": "高",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-006",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 6,
+      "prompt": "PN 结正偏时结宽 ________，扩散 ________ 漂移，导通。",
+      "promptHtml": "PN 结正偏时结宽 <span class=\"blank\">______</span>，扩散 <span class=\"blank\">______</span> 漂移，导通。",
+      "answers": [
+        "变窄",
+        "大于"
+      ],
+      "answerText": "变窄；大于",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-007",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 7,
+      "prompt": "PN 结反偏时结宽 ________，漂移 ________ 扩散，截止。",
+      "promptHtml": "PN 结反偏时结宽 <span class=\"blank\">______</span>，漂移 <span class=\"blank\">______</span> 扩散，截止。",
+      "answers": [
+        "变宽",
+        "大于"
+      ],
+      "answerText": "变宽；大于",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-008",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 8,
+      "prompt": "硅 PN 结正偏导通压降约 ________ V。",
+      "promptHtml": "硅 PN 结正偏导通压降约 <span class=\"blank\">______</span> V。",
+      "answers": [
+        "0.7"
+      ],
+      "answerText": "0.7",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-009",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 9,
+      "prompt": "势垒电容 Cb 在 ________ 偏时由空间电荷区变化形成。",
+      "promptHtml": "势垒电容 Cb 在 <span class=\"blank\">______</span> 偏时由空间电荷区变化形成。",
+      "answers": [
+        "反"
+      ],
+      "answerText": "反",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-010",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 10,
+      "prompt": "扩散电容 Cd 在 ________ 偏时形成。",
+      "promptHtml": "扩散电容 Cd 在 <span class=\"blank\">______</span> 偏时形成。",
+      "answers": [
+        "正"
+      ],
+      "answerText": "正",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-011",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 11,
+      "prompt": "雪崩击穿属于 ________ 击穿，断电可恢复。",
+      "promptHtml": "雪崩击穿属于 <span class=\"blank\">______</span> 击穿，断电可恢复。",
+      "answers": [
+        "电"
+      ],
+      "answerText": "电",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-012",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 12,
+      "prompt": "热击穿 ________（可/不可）恢复，会烧毁 PN 结。",
+      "promptHtml": "热击穿 <span class=\"blank\">______</span>（可/不可）恢复，会烧毁 PN 结。",
+      "answers": [
+        "不可"
+      ],
+      "answerText": "不可",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-013",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 13,
+      "prompt": "漂移运动由 ________ 力引起；扩散运动由 ________ 差引起。",
+      "promptHtml": "漂移运动由 <span class=\"blank\">______</span> 力引起；扩散运动由 <span class=\"blank\">______</span> 差引起。",
+      "answers": [
+        "电场",
+        "浓度"
+      ],
+      "answerText": "电场；浓度",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-014",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 14,
+      "prompt": "自由电子带 ________ 电；空穴带 ________ 电。",
+      "promptHtml": "自由电子带 <span class=\"blank\">______</span> 电；空穴带 <span class=\"blank\">______</span> 电。",
+      "answers": [
+        "负",
+        "正"
+      ],
+      "answerText": "负；正",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-015",
+      "subjectId": "analog",
+      "chapterId": "analog-1",
+      "num": 15,
+      "prompt": "反向击穿指导通反向电流 ________ 增大的现象。",
+      "promptHtml": "反向击穿指导通反向电流 <span class=\"blank\">______</span> 增大的现象。",
+      "answers": [
+        "剧"
+      ],
+      "answerText": "剧",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-016",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 16,
+      "prompt": "硅管死区电压约 ________ V，导通压降 ________ V。",
+      "promptHtml": "硅管死区电压约 <span class=\"blank\">______</span> V，导通压降 <span class=\"blank\">______</span> V。",
+      "answers": [
+        "0.5",
+        "0.7"
+      ],
+      "answerText": "0.5；0.7",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-017",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 17,
+      "prompt": "锗管导通压降约 ________ V。",
+      "promptHtml": "锗管导通压降约 <span class=\"blank\">______</span> V。",
+      "answers": [
+        "0.2"
+      ],
+      "answerText": "0.2",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-018",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 18,
+      "prompt": "恒压降模型正偏时等效 ________ V 压源（硅）。",
+      "promptHtml": "恒压降模型正偏时等效 <span class=\"blank\">______</span> V 压源（硅）。",
+      "answers": [
+        "0.7"
+      ],
+      "answerText": "0.7",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-019",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 19,
+      "prompt": "稳压管工作在反向 ________ 区，需 ________ 流电阻。",
+      "promptHtml": "稳压管工作在反向 <span class=\"blank\">______</span> 区，需 <span class=\"blank\">______</span> 流电阻。",
+      "answers": [
+        "击穿",
+        "限"
+      ],
+      "answerText": "击穿；限",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-020",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 20,
+      "prompt": "稳压管 PZM = IZM · ________；rz = ΔUz / ________。",
+      "promptHtml": "稳压管 PZM = IZM · <span class=\"blank\">______</span>；rz = ΔUz / <span class=\"blank\">______</span>。",
+      "answers": [
+        "Uz",
+        "ΔIz"
+      ],
+      "answerText": "Uz；ΔIz",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-021",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 21,
+      "prompt": "变容二极管工作在 ________ 偏状态。",
+      "promptHtml": "变容二极管工作在 <span class=\"blank\">______</span> 偏状态。",
+      "answers": [
+        "反"
+      ],
+      "answerText": "反",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-022",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 22,
+      "prompt": "发光管 LED 工作在 ________ 偏。",
+      "promptHtml": "发光管 LED 工作在 <span class=\"blank\">______</span> 偏。",
+      "answers": [
+        "正"
+      ],
+      "answerText": "正",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-023",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 23,
+      "prompt": "光电管工作在 ________ 偏，反向电流 ∝ 照度。",
+      "promptHtml": "光电管工作在 <span class=\"blank\">______</span> 偏，反向电流 ∝ 照度。",
+      "answers": [
+        "反"
+      ],
+      "answerText": "反",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-024",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 24,
+      "prompt": "整流电路利用二极管 ________ 导电性。",
+      "promptHtml": "整流电路利用二极管 <span class=\"blank\">______</span> 导电性。",
+      "answers": [
+        "单向"
+      ],
+      "answerText": "单向",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-025",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 25,
+      "prompt": "限幅电路输出被 ________ 在某电压。",
+      "promptHtml": "限幅电路输出被 <span class=\"blank\">______</span> 在某电压。",
+      "answers": [
+        "钳"
+      ],
+      "answerText": "钳",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-026",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 26,
+      "prompt": "钳位电路将波形整体 ________。",
+      "promptHtml": "钳位电路将波形整体 <span class=\"blank\">______</span>。",
+      "answers": [
+        "平移"
+      ],
+      "answerText": "平移",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-027",
+      "subjectId": "analog",
+      "chapterId": "analog-2",
+      "num": 27,
+      "prompt": "二极管解题第一步：假设 D ________，算两端电压。",
+      "promptHtml": "二极管解题第一步：假设 D <span class=\"blank\">______</span>，算两端电压。",
+      "answers": [
+        "断开"
+      ],
+      "answerText": "断开",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-028",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 28,
+      "prompt": "发射区掺杂 ________（最高/最低），基区 ________ 且最薄。",
+      "promptHtml": "发射区掺杂 <span class=\"blank\">______</span>（最高/最低），基区 <span class=\"blank\">______</span> 且最薄。",
+      "answers": [
+        "最高",
+        "掺杂低"
+      ],
+      "answerText": "最高；掺杂低",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-029",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 29,
+      "prompt": "放大外部条件：发射结 ________，集电结 ________。",
+      "promptHtml": "放大外部条件：发射结 <span class=\"blank\">______</span>，集电结 <span class=\"blank\">______</span>。",
+      "answers": [
+        "正偏",
+        "反偏"
+      ],
+      "answerText": "正偏；反偏",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-030",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 30,
+      "prompt": "IE = ________ + ________；β = ΔIC / ________。",
+      "promptHtml": "IE = <span class=\"blank\">______</span> + <span class=\"blank\">______</span>；β = ΔIC / <span class=\"blank\">______</span>。",
+      "answers": [
+        "IB",
+        "IC",
+        "ΔIB"
+      ],
+      "answerText": "IB；IC；ΔIB",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-031",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 31,
+      "prompt": "硅管 BE 压降约 ________ V，可识别 ________ 极。",
+      "promptHtml": "硅管 BE 压降约 <span class=\"blank\">______</span> V，可识别 <span class=\"blank\">______</span> 极。",
+      "answers": [
+        "0.7",
+        "b"
+      ],
+      "answerText": "0.7；b",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-032",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 32,
+      "prompt": "放大区 Ic ________ βIb（= / ≠）；UCE 较 ________。",
+      "promptHtml": "放大区 Ic <span class=\"blank\">______</span> βIb（= / ≠）；UCE 较 <span class=\"blank\">______</span>。",
+      "answers": [
+        "=",
+        "大"
+      ],
+      "answerText": "=；大",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-033",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 33,
+      "prompt": "饱和区 UCE 约 ________ V（硅），两结均 ________ 偏。",
+      "promptHtml": "饱和区 UCE 约 <span class=\"blank\">______</span> V（硅），两结均 <span class=\"blank\">______</span> 偏。",
+      "answers": [
+        "0.3",
+        "正"
+      ],
+      "answerText": "0.3；正",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-034",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 34,
+      "prompt": "饱和判据（硅）：UCE ________ 0.7 V。",
+      "promptHtml": "饱和判据（硅）：UCE <span class=\"blank\">______</span> 0.7 V。",
+      "answers": [
+        "<"
+      ],
+      "answerText": "<",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-035",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 35,
+      "prompt": "截止区两结均 ________ 偏，Ic ≈ ________。",
+      "promptHtml": "截止区两结均 <span class=\"blank\">______</span> 偏，Ic ≈ <span class=\"blank\">______</span>。",
+      "answers": [
+        "反",
+        "0"
+      ],
+      "answerText": "反；0",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-036",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 36,
+      "prompt": "温度每升高 10°C，ICBO 约增大 ________ 倍。",
+      "promptHtml": "温度每升高 10°C，ICBO 约增大 <span class=\"blank\">______</span> 倍。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-037",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 37,
+      "prompt": "直流通路中电容 ________；交流通路中电容 ________。",
+      "promptHtml": "直流通路中电容 <span class=\"blank\">______</span>；交流通路中电容 <span class=\"blank\">______</span>。",
+      "answers": [
+        "开路",
+        "短路"
+      ],
+      "answerText": "开路；短路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-038",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 38,
+      "prompt": "交流通路中直流电源相当于 ________。",
+      "promptHtml": "交流通路中直流电源相当于 <span class=\"blank\">______</span>。",
+      "answers": [
+        "接地"
+      ],
+      "answerText": "接地",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-039",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 39,
+      "prompt": "基本共射 IBQ ≈ (VCC − UBE) / ________。",
+      "promptHtml": "基本共射 IBQ ≈ (VCC − UBE) / <span class=\"blank\">______</span>。",
+      "answers": [
+        "Rb"
+      ],
+      "answerText": "Rb",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-040",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 40,
+      "prompt": "ICQ = ________ · IBQ；UCEQ = VCC − ICQ · ________。",
+      "promptHtml": "ICQ = <span class=\"blank\">______</span> · IBQ；UCEQ = VCC − ICQ · <span class=\"blank\">______</span>。",
+      "answers": [
+        "β",
+        "Rc"
+      ],
+      "answerText": "β；Rc",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-041",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 41,
+      "prompt": "射极偏置 VB ≈ Rb2/(Rb1+Rb2) · ________。",
+      "promptHtml": "射极偏置 VB ≈ Rb2/(Rb1+Rb2) · <span class=\"blank\">______</span>。",
+      "answers": [
+        "VCC"
+      ],
+      "answerText": "VCC",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-042",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 42,
+      "prompt": "射极偏置 ICQ ≈ IEQ = (VB − UBE) / ________。",
+      "promptHtml": "射极偏置 ICQ ≈ IEQ = (VB − UBE) / <span class=\"blank\">______</span>。",
+      "answers": [
+        "Re"
+      ],
+      "answerText": "Re",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-043",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 43,
+      "prompt": "rbe ≈ 200 + (1+β) × 26 / ________（IEQ 单位 mA）。",
+      "promptHtml": "rbe ≈ 200 + (1+β) × 26 / <span class=\"blank\">______</span>（IEQ 单位 mA）。",
+      "answers": [
+        "IEQ"
+      ],
+      "answerText": "IEQ",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-044",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 44,
+      "prompt": "共射饱和失真 ic 削 ________，uCE 削 ________。",
+      "promptHtml": "共射饱和失真 ic 削 <span class=\"blank\">______</span>，uCE 削 <span class=\"blank\">______</span>。",
+      "answers": [
+        "顶",
+        "底"
+      ],
+      "answerText": "顶；底",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-045",
+      "subjectId": "analog",
+      "chapterId": "analog-3",
+      "num": 45,
+      "prompt": "共射截止失真 ic 削 ________，uCE 削 ________。",
+      "promptHtml": "共射截止失真 ic 削 <span class=\"blank\">______</span>，uCE 削 <span class=\"blank\">______</span>。",
+      "answers": [
+        "底",
+        "顶"
+      ],
+      "answerText": "底；顶",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-046",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 46,
+      "prompt": "输入 b、输出 c → ________ 组态；输入 b、输出 e → ________ 组态。",
+      "promptHtml": "输入 b、输出 c → <span class=\"blank\">______</span> 组态；输入 b、输出 e → <span class=\"blank\">______</span> 组态。",
+      "answers": [
+        "共射（CE）",
+        "共集（CC）"
+      ],
+      "answerText": "共射（CE）；共集（CC）",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-047",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 47,
+      "prompt": "输入 e、输出 c → ________ 组态。",
+      "promptHtml": "输入 e、输出 c → <span class=\"blank\">______</span> 组态。",
+      "answers": [
+        "共基（CB）"
+      ],
+      "answerText": "共基（CB）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-048",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 48,
+      "prompt": "共射 Au 带 ________ 号，表示 ________ 相。",
+      "promptHtml": "共射 Au 带 <span class=\"blank\">______</span> 号，表示 <span class=\"blank\">______</span> 相。",
+      "answers": [
+        "负",
+        "反"
+      ],
+      "answerText": "负；反",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-049",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 49,
+      "prompt": "共射 Au = −βRL' / ________；Ro ≈ ________。",
+      "promptHtml": "共射 Au = −βRL' / <span class=\"blank\">______</span>；Ro ≈ <span class=\"blank\">______</span>。",
+      "answers": [
+        "rbe",
+        "Rc"
+      ],
+      "answerText": "rbe；Rc",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-050",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 50,
+      "prompt": "共射 Ri = Rb ________ rbe。",
+      "promptHtml": "共射 Ri = Rb <span class=\"blank\">______</span> rbe。",
+      "answers": [
+        "∥（并联）"
+      ],
+      "answerText": "∥（并联）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-051",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 51,
+      "prompt": "共集 Au ≈ ________，Ri ________（大/小），Ro ________（大/小）。",
+      "promptHtml": "共集 Au ≈ <span class=\"blank\">______</span>，Ri <span class=\"blank\">______</span>（大/小），Ro <span class=\"blank\">______</span>（大/小）。",
+      "answers": [
+        "1",
+        "大",
+        "小"
+      ],
+      "answerText": "1；大；小",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-052",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 52,
+      "prompt": "共集别名 ________，用途 ________ 级/缓冲级。",
+      "promptHtml": "共集别名 <span class=\"blank\">______</span>，用途 <span class=\"blank\">______</span> 级/缓冲级。",
+      "answers": [
+        "射极输出器",
+        "输入"
+      ],
+      "answerText": "射极输出器；输入/输出",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-053",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 53,
+      "prompt": "共基 Au = +βRL' / rbe，Ri ________（大/小）。",
+      "promptHtml": "共基 Au = +βRL' / rbe，Ri <span class=\"blank\">______</span>（大/小）。",
+      "answers": [
+        "小"
+      ],
+      "answerText": "小",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-054",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 54,
+      "prompt": "共基常用于 ________、宽频带放大。",
+      "promptHtml": "共基常用于 <span class=\"blank\">______</span>、宽频带放大。",
+      "answers": [
+        "高频"
+      ],
+      "answerText": "高频",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-055",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 55,
+      "prompt": "Ri 最大的是 ________ 组态；最小的是 ________ 组态。",
+      "promptHtml": "Ri 最大的是 <span class=\"blank\">______</span> 组态；最小的是 <span class=\"blank\">______</span> 组态。",
+      "answers": [
+        "共集（CC）",
+        "共基（CB）"
+      ],
+      "answerText": "共集（CC）；共基（CB）",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-056",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 56,
+      "prompt": "只有 ________ 的 Au 带负号。",
+      "promptHtml": "只有 <span class=\"blank\">______</span> 的 Au 带负号。",
+      "answers": [
+        "共射（CE）"
+      ],
+      "answerText": "共射（CE）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-057",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 57,
+      "prompt": "有 Re 未旁路时 Au 分母增加 (1+β) ________。",
+      "promptHtml": "有 Re 未旁路时 Au 分母增加 (1+β) <span class=\"blank\">______</span>。",
+      "answers": [
+        "Re"
+      ],
+      "answerText": "Re",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-058",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 58,
+      "prompt": "RL' = Rc ________ RL。",
+      "promptHtml": "RL' = Rc <span class=\"blank\">______</span> RL。",
+      "answers": [
+        "∥"
+      ],
+      "answerText": "∥",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-059",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 59,
+      "prompt": "组态大题第一步：________ 组态。",
+      "promptHtml": "组态大题第一步：<span class=\"blank\">______</span> 组态。",
+      "answers": [
+        "判"
+      ],
+      "answerText": "判",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-060",
+      "subjectId": "analog",
+      "chapterId": "analog-4",
+      "num": 60,
+      "prompt": "算 rbe 前必须先求静态 ________。",
+      "promptHtml": "算 rbe 前必须先求静态 <span class=\"blank\">______</span>。",
+      "answers": [
+        "IEQ"
+      ],
+      "answerText": "IEQ",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-061",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 61,
+      "prompt": "阻容耦合各级 Q 点 ________（独立/相互影响）。",
+      "promptHtml": "阻容耦合各级 Q 点 <span class=\"blank\">______</span>（独立/相互影响）。",
+      "answers": [
+        "独立"
+      ],
+      "answerText": "独立",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-062",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 62,
+      "prompt": "直接耦合用于 ________ 电路，易产生 ________ 漂移。",
+      "promptHtml": "直接耦合用于 <span class=\"blank\">______</span> 电路，易产生 <span class=\"blank\">______</span> 漂移。",
+      "answers": [
+        "集成",
+        "零点"
+      ],
+      "answerText": "集成；零点",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-063",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 63,
+      "prompt": "零点漂移用 ________ 放大电路抑制。",
+      "promptHtml": "零点漂移用 <span class=\"blank\">______</span> 放大电路抑制。",
+      "answers": [
+        "差分"
+      ],
+      "answerText": "差分",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-064",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 64,
+      "prompt": "理想运放 Aud = ________，rid = ________，ro = ________。",
+      "promptHtml": "理想运放 Aud = <span class=\"blank\">______</span>，rid = <span class=\"blank\">______</span>，ro = <span class=\"blank\">______</span>。",
+      "answers": [
+        "∞",
+        "∞",
+        "0"
+      ],
+      "answerText": "∞；∞；0",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-065",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 65,
+      "prompt": "**虚断**：两输入端电流 ≈ ________。",
+      "promptHtml": "<strong>虚断</strong>：两输入端电流 ≈ <span class=\"blank\">______</span>。",
+      "answers": [
+        "0"
+      ],
+      "answerText": "0",
+      "blankCount": 1,
+      "must": true,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-066",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 66,
+      "prompt": "**虚短**：深度负反馈时 v+ ________ v−。",
+      "promptHtml": "<strong>虚短</strong>：深度负反馈时 v+ <span class=\"blank\">______</span> v−。",
+      "answers": [
+        "≈"
+      ],
+      "answerText": "≈",
+      "blankCount": 1,
+      "must": true,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-067",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 67,
+      "prompt": "同相比例 Au = 1 + ________ / R1。",
+      "promptHtml": "同相比例 Au = 1 + <span class=\"blank\">______</span> / R1。",
+      "answers": [
+        "R2"
+      ],
+      "answerText": "R2",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-068",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 68,
+      "prompt": "反相比例 Au = −________ / R1，Ri = ________。",
+      "promptHtml": "反相比例 Au = −<span class=\"blank\">______</span> / R1，Ri = <span class=\"blank\">______</span>。",
+      "answers": [
+        "R2",
+        "R1"
+      ],
+      "answerText": "R2；R1",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-069",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 69,
+      "prompt": "电压跟随器 Au ≈ ________，Ro → ________。",
+      "promptHtml": "电压跟随器 Au ≈ <span class=\"blank\">______</span>，Ro → <span class=\"blank\">______</span>。",
+      "answers": [
+        "1",
+        "0"
+      ],
+      "answerText": "1；0",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-070",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 70,
+      "prompt": "反相加法 uo = −(Rf/R1·ui1 + ________)。",
+      "promptHtml": "反相加法 uo = −(Rf/R1·ui1 + <span class=\"blank\">______</span>)。",
+      "answers": [
+        "Rf"
+      ],
+      "answerText": "Rf/R2·ui2（或 …）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-071",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 71,
+      "prompt": "减法（R1=R2, Rf=R3）：uo = (ui2 − ui1) · ________ / R1。",
+      "promptHtml": "减法（R1=R2, Rf=R3）：uo = (ui2 − ui1) · <span class=\"blank\">______</span> / R1。",
+      "answers": [
+        "Rf"
+      ],
+      "answerText": "Rf",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-072",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 72,
+      "prompt": "电压比较器运放工作在 ________（开环/闭环），输出 ________ 变。",
+      "promptHtml": "电压比较器运放工作在 <span class=\"blank\">______</span>（开环/闭环），输出 <span class=\"blank\">______</span> 变。",
+      "answers": [
+        "开环",
+        "跃"
+      ],
+      "answerText": "开环；跃",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-073",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 73,
+      "prompt": "同相比较器信号接 ________ 端；反相比较器信号接 ________ 端。",
+      "promptHtml": "同相比较器信号接 <span class=\"blank\">______</span> 端；反相比较器信号接 <span class=\"blank\">______</span> 端。",
+      "answers": [
+        "+（同相）",
+        "−（反相）"
+      ],
+      "answerText": "+（同相）；−（反相）",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-074",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 74,
+      "prompt": "过零比较器参考电压为 ________。",
+      "promptHtml": "过零比较器参考电压为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "0"
+      ],
+      "answerText": "0",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-075",
+      "subjectId": "analog",
+      "chapterId": "analog-5",
+      "num": 75,
+      "prompt": "运放大题判 ________/反相/加减 → 虚短虚断列方程。",
+      "promptHtml": "运放大题判 <span class=\"blank\">______</span>/反相/加减 → 虚短虚断列方程。",
+      "answers": [
+        "同相"
+      ],
+      "answerText": "同相",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-076",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 76,
+      "prompt": "Af = A / (________)。",
+      "promptHtml": "Af = A / (<span class=\"blank\">______</span>)。",
+      "answers": [
+        "1+AF"
+      ],
+      "answerText": "1+AF",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-077",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 77,
+      "prompt": "反馈深度 = 1 + ________。",
+      "promptHtml": "反馈深度 = 1 + <span class=\"blank\">______</span>。",
+      "answers": [
+        "AF"
+      ],
+      "answerText": "AF",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-078",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 78,
+      "prompt": "负反馈使 Av ________（增大/减小）。",
+      "promptHtml": "负反馈使 Av <span class=\"blank\">______</span>（增大/减小）。",
+      "answers": [
+        "减小"
+      ],
+      "answerText": "减小",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-079",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 79,
+      "prompt": "正反馈可能产生 ________ 振荡。",
+      "promptHtml": "正反馈可能产生 <span class=\"blank\">______</span> 振荡。",
+      "answers": [
+        "自激"
+      ],
+      "answerText": "自激",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-080",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 80,
+      "prompt": "电压反馈稳定输出 ________；电流反馈稳定输出 ________。",
+      "promptHtml": "电压反馈稳定输出 <span class=\"blank\">______</span>；电流反馈稳定输出 <span class=\"blank\">______</span>。",
+      "answers": [
+        "电压",
+        "电流"
+      ],
+      "answerText": "电压；电流",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-081",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 81,
+      "prompt": "串联反馈使 Ri ________（增大/减小）。",
+      "promptHtml": "串联反馈使 Ri <span class=\"blank\">______</span>（增大/减小）。",
+      "answers": [
+        "增大"
+      ],
+      "answerText": "增大",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-082",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 82,
+      "prompt": "并联反馈使 Ri ________（增大/减小）。",
+      "promptHtml": "并联反馈使 Ri <span class=\"blank\">______</span>（增大/减小）。",
+      "answers": [
+        "减小"
+      ],
+      "answerText": "减小",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-083",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 83,
+      "prompt": "直流反馈稳定 ________ 工作点。",
+      "promptHtml": "直流反馈稳定 <span class=\"blank\">______</span> 工作点。",
+      "answers": [
+        "静态"
+      ],
+      "answerText": "静态",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-084",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 84,
+      "prompt": "交流反馈改善 ________ 性能。",
+      "promptHtml": "交流反馈改善 <span class=\"blank\">______</span> 性能。",
+      "answers": [
+        "动态"
+      ],
+      "answerText": "动态",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-085",
+      "subjectId": "analog",
+      "chapterId": "analog-6",
+      "num": 85,
+      "prompt": "输出端电压取样为 ________ 反馈；电流取样为 ________ 反馈。",
+      "promptHtml": "输出端电压取样为 <span class=\"blank\">______</span> 反馈；电流取样为 <span class=\"blank\">______</span> 反馈。",
+      "answers": [
+        "电压",
+        "电流"
+      ],
+      "answerText": "电压；电流",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "a4"
+    },
+    {
+      "id": "analog-086",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 86,
+      "prompt": "正偏 ________（导通/截止）；反偏 ________。",
+      "promptHtml": "正偏 <span class=\"blank\">______</span>（导通/截止）；反偏 <span class=\"blank\">______</span>。",
+      "answers": [
+        "导通",
+        "截止"
+      ],
+      "answerText": "导通；截止",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-087",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 87,
+      "prompt": "饱和 UCE≈0.3V，开关时近似 ________；截止近似 ________。",
+      "promptHtml": "饱和 UCE≈0.3V，开关时近似 <span class=\"blank\">______</span>；截止近似 <span class=\"blank\">______</span>。",
+      "answers": [
+        "短路",
+        "开路"
+      ],
+      "answerText": "短路；开路",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-088",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 88,
+      "prompt": "通频带越宽，对不同频率信号适应性越 ________。",
+      "promptHtml": "通频带越宽，对不同频率信号适应性越 <span class=\"blank\">______</span>。",
+      "answers": [
+        "强"
+      ],
+      "answerText": "强",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-089",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 89,
+      "prompt": "Uom = min(UCEQ, VCC−UCEQ) / ________。",
+      "promptHtml": "Uom = min(UCEQ, VCC−UCEQ) / <span class=\"blank\">______</span>。",
+      "answers": [
+        "√2"
+      ],
+      "answerText": "√2",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-090",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 90,
+      "prompt": "温度↑ → 正向压降略 ________（升/降）。",
+      "promptHtml": "温度↑ → 正向压降略 <span class=\"blank\">______</span>（升/降）。",
+      "answers": [
+        "降"
+      ],
+      "answerText": "降",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-091",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 91,
+      "prompt": "稳压管电流太小 → 不 ________；太大 → 烧管。",
+      "promptHtml": "稳压管电流太小 → 不 <span class=\"blank\">______</span>；太大 → 烧管。",
+      "answers": [
+        "稳压"
+      ],
+      "answerText": "稳压",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-092",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 92,
+      "prompt": "变压器耦合频响 ________（好/差），用于功率放大。",
+      "promptHtml": "变压器耦合频响 <span class=\"blank\">______</span>（好/差），用于功率放大。",
+      "answers": [
+        "差"
+      ],
+      "answerText": "差",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-093",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 93,
+      "prompt": "共射用途：一般放大、________ 级。",
+      "promptHtml": "共射用途：一般放大、<span class=\"blank\">______</span> 级。",
+      "answers": [
+        "中间"
+      ],
+      "answerText": "中间",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-094",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 94,
+      "prompt": "共集口诀：同相跟随，入 ________ 出小。",
+      "promptHtml": "共集口诀：同相跟随，入 <span class=\"blank\">______</span> 出小。",
+      "answers": [
+        "大"
+      ],
+      "answerText": "大",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-095",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 95,
+      "prompt": "模电静态流程：直流通路 → IB → IC → ________。",
+      "promptHtml": "模电静态流程：直流通路 → IB → IC → <span class=\"blank\">______</span>。",
+      "answers": [
+        "UCE"
+      ],
+      "answerText": "UCE",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-096",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 96,
+      "prompt": "模电动态流程：交流通路 → rbe → Au, ________, Ro。",
+      "promptHtml": "模电动态流程：交流通路 → rbe → Au, <span class=\"blank\">______</span>, Ro。",
+      "answers": [
+        "Ri"
+      ],
+      "answerText": "Ri",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-097",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 97,
+      "prompt": "NPN 共射 ic 与 uCE 波形 ________（同/反）相。",
+      "promptHtml": "NPN 共射 ic 与 uCE 波形 <span class=\"blank\">______</span>（同/反）相。",
+      "answers": [
+        "反"
+      ],
+      "answerText": "反",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-098",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 98,
+      "prompt": "β = ΔIC / ΔIB 中 Δ 表示 ________ 变化量。",
+      "promptHtml": "β = ΔIC / ΔIB 中 Δ 表示 <span class=\"blank\">______</span> 变化量。",
+      "answers": [
+        "增量"
+      ],
+      "answerText": "增量",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-099",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 99,
+      "prompt": "发射区作用是 ________ 载流子；集电区作用是收集载流子。",
+      "promptHtml": "发射区作用是 <span class=\"blank\">______</span> 载流子；集电区作用是收集载流子。",
+      "answers": [
+        "发射"
+      ],
+      "answerText": "发射",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "analog-100",
+      "subjectId": "analog",
+      "chapterId": "analog-7",
+      "num": 100,
+      "prompt": "比较器与运算放大器：比较器 ________ 环，运放负反馈线性区。",
+      "promptHtml": "比较器与运算放大器：比较器 <span class=\"blank\">______</span> 环，运放负反馈线性区。",
+      "answers": [
+        "开"
+      ],
+      "answerText": "开",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "analog"
+    },
+    {
+      "id": "digital-001",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 1,
+      "prompt": "数字量在时间上和数值上均 ________。",
+      "promptHtml": "数字量在时间上和数值上均 <span class=\"blank\">______</span>。",
+      "answers": [
+        "离散"
+      ],
+      "answerText": "离散",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-002",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 2,
+      "prompt": "模拟量在时间和数值上均 ________。",
+      "promptHtml": "模拟量在时间和数值上均 <span class=\"blank\">______</span>。",
+      "answers": [
+        "连续"
+      ],
+      "answerText": "连续",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-003",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 3,
+      "prompt": "TTL 正逻辑：3.5~5 V 为 ________ 电平，逻辑 ________。",
+      "promptHtml": "TTL 正逻辑：3.5~5 V 为 <span class=\"blank\">______</span> 电平，逻辑 <span class=\"blank\">______</span>。",
+      "answers": [
+        "高",
+        "1"
+      ],
+      "answerText": "高；1",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-004",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 4,
+      "prompt": "TTL 低电平 0~1.5 V 对应逻辑 ________。",
+      "promptHtml": "TTL 低电平 0~1.5 V 对应逻辑 <span class=\"blank\">______</span>。",
+      "answers": [
+        "0"
+      ],
+      "answerText": "0",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-005",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 5,
+      "prompt": "十进制整数转二进制：________ 取余，余数 ________ 排列。",
+      "promptHtml": "十进制整数转二进制：<span class=\"blank\">______</span> 取余，余数 <span class=\"blank\">______</span> 排列。",
+      "answers": [
+        "除 2",
+        "逆序"
+      ],
+      "answerText": "除 2；逆序",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-006",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 6,
+      "prompt": "十进制小数转二进制：________ 取整，整数 ________ 排列。",
+      "promptHtml": "十进制小数转二进制：<span class=\"blank\">______</span> 取整，整数 <span class=\"blank\">______</span> 排列。",
+      "answers": [
+        "乘 2",
+        "顺序"
+      ],
+      "answerText": "乘 2；顺序",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-007",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 7,
+      "prompt": "8421 BCD 位权为 ________、________、________、________。",
+      "promptHtml": "8421 BCD 位权为 <span class=\"blank\">______</span>、<span class=\"blank\">______</span>、<span class=\"blank\">______</span>、<span class=\"blank\">______</span>。",
+      "answers": [
+        "8",
+        "4",
+        "2",
+        "1"
+      ],
+      "answerText": "8；4；2；1",
+      "blankCount": 4,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-008",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 8,
+      "prompt": "十进制 6 的 8421 BCD 码是 ________（不是 110）。",
+      "promptHtml": "十进制 6 的 8421 BCD 码是 <span class=\"blank\">______</span>（不是 110）。",
+      "answers": [
+        "0110"
+      ],
+      "answerText": "0110",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-009",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 9,
+      "prompt": "十进制 75 的 BCD 码是 ________ ________（8 位）。",
+      "promptHtml": "十进制 75 的 BCD 码是 <span class=\"blank\">______</span> <span class=\"blank\">______</span>（8 位）。",
+      "answers": [
+        "0111",
+        "0101"
+      ],
+      "answerText": "0111；0101",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-010",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 10,
+      "prompt": "8421 BCD 中 10~15 为 ________ 码。",
+      "promptHtml": "8421 BCD 中 10~15 为 <span class=\"blank\">______</span> 码。",
+      "answers": [
+        "无效"
+      ],
+      "answerText": "无效",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-011",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 11,
+      "prompt": "余 3 码 = 8421 BCD + ________；6 的余 3 码为 ________。",
+      "promptHtml": "余 3 码 = 8421 BCD + <span class=\"blank\">______</span>；6 的余 3 码为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "0011",
+        "1001"
+      ],
+      "answerText": "0011；1001",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-012",
+      "subjectId": "digital",
+      "chapterId": "digital-1",
+      "num": 12,
+      "prompt": "格雷码相邻两位仅差 ________ 位。",
+      "promptHtml": "格雷码相邻两位仅差 <span class=\"blank\">______</span> 位。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-013",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 13,
+      "prompt": "与门口诀：有 ________ 出 0，全 1 出 ________。",
+      "promptHtml": "与门口诀：有 <span class=\"blank\">______</span> 出 0，全 1 出 <span class=\"blank\">______</span>。",
+      "answers": [
+        "0",
+        "1"
+      ],
+      "answerText": "0；1",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-014",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 14,
+      "prompt": "或门口诀：有 1 出 ________，全 0 出 0。",
+      "promptHtml": "或门口诀：有 1 出 <span class=\"blank\">______</span>，全 0 出 0。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-015",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 15,
+      "prompt": "异或：________ 为 1；同或：________ 为 1。",
+      "promptHtml": "异或：<span class=\"blank\">______</span> 为 1；同或：<span class=\"blank\">______</span> 为 1。",
+      "answers": [
+        "不同",
+        "相同"
+      ],
+      "answerText": "不同；相同",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-016",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 16,
+      "prompt": "摩根定律：A+B 的非 = Ā · ________；AB 的非 = Ā + ________。",
+      "promptHtml": "摩根定律：A+B 的非 = Ā · <span class=\"blank\">______</span>；AB 的非 = Ā + <span class=\"blank\">______</span>。",
+      "answers": [
+        "B̄",
+        "B̄"
+      ],
+      "answerText": "B̄；B̄",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-017",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 17,
+      "prompt": "吸收律：A + AB = ________；A + ĀB = ________。",
+      "promptHtml": "吸收律：A + AB = <span class=\"blank\">______</span>；A + ĀB = <span class=\"blank\">______</span>。",
+      "answers": [
+        "A",
+        "A+B"
+      ],
+      "answerText": "A；A+B",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-018",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 18,
+      "prompt": "反演规则：变量要 ________；对偶规则：变量 ________。",
+      "promptHtml": "反演规则：变量要 <span class=\"blank\">______</span>；对偶规则：变量 <span class=\"blank\">______</span>。",
+      "answers": [
+        "取反",
+        "不变"
+      ],
+      "answerText": "取反；不变",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-019",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 19,
+      "prompt": "n 个输入变量，真值表有 ________ 行，最小项 ________ 个。",
+      "promptHtml": "n 个输入变量，真值表有 <span class=\"blank\">______</span> 行，最小项 <span class=\"blank\">______</span> 个。",
+      "answers": [
+        "2ⁿ",
+        "2ⁿ"
+      ],
+      "answerText": "2ⁿ；2ⁿ",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-020",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 20,
+      "prompt": "最简与或式：与项 ________，每项变量数 ________。",
+      "promptHtml": "最简与或式：与项 <span class=\"blank\">______</span>，每项变量数 <span class=\"blank\">______</span>。",
+      "answers": [
+        "最少",
+        "最少"
+      ],
+      "answerText": "最少；最少",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-021",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 21,
+      "prompt": "卡诺图化简口诀：________ 圈少，2ⁿ 格。",
+      "promptHtml": "卡诺图化简口诀：<span class=\"blank\">______</span> 圈少，2ⁿ 格。",
+      "answers": [
+        "圈大"
+      ],
+      "answerText": "圈大",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-022",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 22,
+      "prompt": "无关项 d 可当 ________ 或 1 处理。",
+      "promptHtml": "无关项 d 可当 <span class=\"blank\">______</span> 或 1 处理。",
+      "answers": [
+        "0"
+      ],
+      "answerText": "0",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-023",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 23,
+      "prompt": "A + 0 = ________；A · 0 = ________。",
+      "promptHtml": "A + 0 = <span class=\"blank\">______</span>；A · 0 = <span class=\"blank\">______</span>。",
+      "answers": [
+        "A",
+        "0"
+      ],
+      "answerText": "A；0",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-024",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 24,
+      "prompt": "A + 1 = ________；A · 1 = ________。",
+      "promptHtml": "A + 1 = <span class=\"blank\">______</span>；A · 1 = <span class=\"blank\">______</span>。",
+      "answers": [
+        "1",
+        "A"
+      ],
+      "answerText": "1；A",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-025",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 25,
+      "prompt": "逻辑运算优先顺序：括号 > ________ > 或 > 非。",
+      "promptHtml": "逻辑运算优先顺序：括号 > <span class=\"blank\">______</span> > 或 > 非。",
+      "answers": [
+        "与"
+      ],
+      "answerText": "与",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-026",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 26,
+      "prompt": "逻辑函数五种表示：表达式、真值表、逻辑图、________、波形图。",
+      "promptHtml": "逻辑函数五种表示：表达式、真值表、逻辑图、<span class=\"blank\">______</span>、波形图。",
+      "answers": [
+        "卡诺图"
+      ],
+      "answerText": "卡诺图",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-027",
+      "subjectId": "digital",
+      "chapterId": "digital-2",
+      "num": 27,
+      "prompt": "AB + ĀC + BC = AB + ________（吸收律变体）。",
+      "promptHtml": "AB + ĀC + BC = AB + <span class=\"blank\">______</span>（吸收律变体）。",
+      "answers": [
+        "ĀC"
+      ],
+      "answerText": "ĀC",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d3"
+    },
+    {
+      "id": "digital-028",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 28,
+      "prompt": "最小项：每项含全部 n 个变量，原/反各出现 ________ 次。",
+      "promptHtml": "最小项：每项含全部 n 个变量，原/反各出现 <span class=\"blank\">______</span> 次。",
+      "answers": [
+        "一"
+      ],
+      "answerText": "一",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-029",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 29,
+      "prompt": "相邻最小项合并可消去 ________ 个变量。",
+      "promptHtml": "相邻最小项合并可消去 <span class=\"blank\">______</span> 个变量。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-030",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 30,
+      "prompt": "全体最小项之和 = ________。",
+      "promptHtml": "全体最小项之和 = <span class=\"blank\">______</span>。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-031",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 31,
+      "prompt": "BJT 饱和时 vo ≈ ________ V；截止时 vo ≈ ________。",
+      "promptHtml": "BJT 饱和时 vo ≈ <span class=\"blank\">______</span> V；截止时 vo ≈ <span class=\"blank\">______</span>。",
+      "answers": [
+        "0.2",
+        "VCC"
+      ],
+      "answerText": "0.2；VCC",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-032",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 32,
+      "prompt": "TTL 与非门当非门用，多余输入端接 ________ 电平。",
+      "promptHtml": "TTL 与非门当非门用，多余输入端接 <span class=\"blank\">______</span> 电平。",
+      "answers": [
+        "高"
+      ],
+      "answerText": "高",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-033",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 33,
+      "prompt": "线与功能由 ________ 门（集电极开路）实现。",
+      "promptHtml": "线与功能由 <span class=\"blank\">______</span> 门（集电极开路）实现。",
+      "answers": [
+        "OC"
+      ],
+      "answerText": "OC",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-034",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 34,
+      "prompt": "三态门除高、低外还有 ________ 态。",
+      "promptHtml": "三态门除高、低外还有 <span class=\"blank\">______</span> 态。",
+      "answers": [
+        "高阻"
+      ],
+      "answerText": "高阻",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-035",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 35,
+      "prompt": "CMOS 传输门输入输出可 ________。",
+      "promptHtml": "CMOS 传输门输入输出可 <span class=\"blank\">______</span>。",
+      "answers": [
+        "互换"
+      ],
+      "answerText": "互换",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-036",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 36,
+      "prompt": "NMOS 导通条件 vGS ________ VT。",
+      "promptHtml": "NMOS 导通条件 vGS <span class=\"blank\">______</span> VT。",
+      "answers": [
+        "≥"
+      ],
+      "answerText": "≥",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-037",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 37,
+      "prompt": "CMOS 静态功耗 ________（极低/极高）。",
+      "promptHtml": "CMOS 静态功耗 <span class=\"blank\">______</span>（极低/极高）。",
+      "answers": [
+        "极低"
+      ],
+      "answerText": "极低",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-038",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 38,
+      "prompt": "TTL 门结构：多发射极输入级实现 ________ 功能。",
+      "promptHtml": "TTL 门结构：多发射极输入级实现 <span class=\"blank\">______</span> 功能。",
+      "answers": [
+        "与"
+      ],
+      "answerText": "与",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-039",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 39,
+      "prompt": "总线连接时同一时刻仅 ________ 个设备驱动总线。",
+      "promptHtml": "总线连接时同一时刻仅 <span class=\"blank\">______</span> 个设备驱动总线。",
+      "answers": [
+        "一"
+      ],
+      "answerText": "一",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-040",
+      "subjectId": "digital",
+      "chapterId": "digital-3",
+      "num": 40,
+      "prompt": "BJT 饱和条件 IB ≥ VCC / (________ Rc)。",
+      "promptHtml": "BJT 饱和条件 IB ≥ VCC / (<span class=\"blank\">______</span> Rc)。",
+      "answers": [
+        "β"
+      ],
+      "answerText": "β",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-041",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 41,
+      "prompt": "组合逻辑 ________ 记忆功能；时序逻辑 ________ 记忆。",
+      "promptHtml": "组合逻辑 <span class=\"blank\">______</span> 记忆功能；时序逻辑 <span class=\"blank\">______</span> 记忆。",
+      "answers": [
+        "无",
+        "有"
+      ],
+      "answerText": "无；有",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-042",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 42,
+      "prompt": "组合逻辑输出仅取决于 ________ 输入。",
+      "promptHtml": "组合逻辑输出仅取决于 <span class=\"blank\">______</span> 输入。",
+      "answers": [
+        "当前"
+      ],
+      "answerText": "当前",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-043",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 43,
+      "prompt": "组合分析四步：写式 → 化简 → 真值表 → ________ 描述。",
+      "promptHtml": "组合分析四步：写式 → 化简 → 真值表 → <span class=\"blank\">______</span> 描述。",
+      "answers": [
+        "功能"
+      ],
+      "answerText": "功能",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-044",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 44,
+      "prompt": "组合设计五步：抽象 → 真值表 → 化简 → 逻辑 ________。",
+      "promptHtml": "组合设计五步：抽象 → 真值表 → 化简 → 逻辑 <span class=\"blank\">______</span>。",
+      "answers": [
+        "图"
+      ],
+      "answerText": "图",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-045",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 45,
+      "prompt": "竞争-冒险是信号变化瞬间出现 ________ 尖峰。",
+      "promptHtml": "竞争-冒险是信号变化瞬间出现 <span class=\"blank\">______</span> 尖峰。",
+      "answers": [
+        "错误"
+      ],
+      "answerText": "错误",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-046",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 46,
+      "prompt": "消除竞争-冒险：封锁脉冲、选通脉冲、滤波电容、修改 ________ 设计。",
+      "promptHtml": "消除竞争-冒险：封锁脉冲、选通脉冲、滤波电容、修改 <span class=\"blank\">______</span> 设计。",
+      "answers": [
+        "逻辑"
+      ],
+      "answerText": "逻辑",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-047",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 47,
+      "prompt": "时序逻辑基本单元是 ________；组合逻辑基本单元是 ________。",
+      "promptHtml": "时序逻辑基本单元是 <span class=\"blank\">______</span>；组合逻辑基本单元是 <span class=\"blank\">______</span>。",
+      "answers": [
+        "触发器",
+        "门"
+      ],
+      "answerText": "触发器；门",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-048",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 48,
+      "prompt": "时序电路有 ________ 通路。",
+      "promptHtml": "时序电路有 <span class=\"blank\">______</span> 通路。",
+      "answers": [
+        "反馈"
+      ],
+      "answerText": "反馈",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-049",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 49,
+      "prompt": "n 路信号编码至少需要 ⌈log₂n⌉ 位，这是 ________ 器的任务。",
+      "promptHtml": "n 路信号编码至少需要 ⌈log₂n⌉ 位，这是 <span class=\"blank\">______</span> 器的任务。",
+      "answers": [
+        "编码"
+      ],
+      "answerText": "编码",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-050",
+      "subjectId": "digital",
+      "chapterId": "digital-4",
+      "num": 50,
+      "prompt": "译码是编码的 ________ 过程。",
+      "promptHtml": "译码是编码的 <span class=\"blank\">______</span> 过程。",
+      "answers": [
+        "逆"
+      ],
+      "answerText": "逆",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d6"
+    },
+    {
+      "id": "digital-051",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 51,
+      "prompt": "普通编码器同一时刻只允许 ________ 个输入有效。",
+      "promptHtml": "普通编码器同一时刻只允许 <span class=\"blank\">______</span> 个输入有效。",
+      "answers": [
+        "一"
+      ],
+      "answerText": "一",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-052",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 52,
+      "prompt": "优先编码器多个有效时编 ________ 最高的一路。",
+      "promptHtml": "优先编码器多个有效时编 <span class=\"blank\">______</span> 最高的一路。",
+      "answers": [
+        "优先级"
+      ],
+      "answerText": "优先级",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-053",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 53,
+      "prompt": "74LS148 是 8 线-3 线 ________ 编码器，输入 ________ 有效。",
+      "promptHtml": "74LS148 是 8 线-3 线 <span class=\"blank\">______</span> 编码器，输入 <span class=\"blank\">______</span> 有效。",
+      "answers": [
+        "优先",
+        "低"
+      ],
+      "answerText": "优先；低",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-054",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 54,
+      "prompt": "74LS138 是 ________ 线-________ 线译码器，输出 ________ 有效。",
+      "promptHtml": "74LS138 是 <span class=\"blank\">______</span> 线-<span class=\"blank\">______</span> 线译码器，输出 <span class=\"blank\">______</span> 有效。",
+      "answers": [
+        "3",
+        "8",
+        "低"
+      ],
+      "answerText": "3；8；低",
+      "blankCount": 3,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-055",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 55,
+      "prompt": "74LS138 使能条件：G1=________，G2A=G2B=________。",
+      "promptHtml": "74LS138 使能条件：G1=<span class=\"blank\">______</span>，G2A=G2B=<span class=\"blank\">______</span>。",
+      "answers": [
+        "1",
+        "0"
+      ],
+      "answerText": "1；0",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-056",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 56,
+      "prompt": "74LS138 的 Y0~Y7 含 3 变量全部 ________ 项。",
+      "promptHtml": "74LS138 的 Y0~Y7 含 3 变量全部 <span class=\"blank\">______</span> 项。",
+      "answers": [
+        "最小"
+      ],
+      "answerText": "最小",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-057",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 57,
+      "prompt": "74LS42 输入有效范围 0000~________，输出低有效。",
+      "promptHtml": "74LS42 输入有效范围 0000~<span class=\"blank\">______</span>，输出低有效。",
+      "answers": [
+        "1001"
+      ],
+      "answerText": "1001",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-058",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 58,
+      "prompt": "74LS153 是 ________ 选 1 数据选择器（一片含双路）。",
+      "promptHtml": "74LS153 是 <span class=\"blank\">______</span> 选 1 数据选择器（一片含双路）。",
+      "answers": [
+        "4"
+      ],
+      "answerText": "4",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-059",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 59,
+      "prompt": "74LS151 是 8 选 1，选通端 Ḡ=________ 时工作。",
+      "promptHtml": "74LS151 是 8 选 1，选通端 Ḡ=<span class=\"blank\">______</span> 时工作。",
+      "answers": [
+        "0"
+      ],
+      "answerText": "0",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-060",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 60,
+      "prompt": "用 MUX 实现逻辑函数：K 个变量、n 个选择端，K ________ n 时变量接地址。",
+      "promptHtml": "用 MUX 实现逻辑函数：K 个变量、n 个选择端，K <span class=\"blank\">______</span> n 时变量接地址。",
+      "answers": [
+        "="
+      ],
+      "answerText": "=",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-061",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 61,
+      "prompt": "半加器不考虑 ________ 进位；全加器考虑低位进位。",
+      "promptHtml": "半加器不考虑 <span class=\"blank\">______</span> 进位；全加器考虑低位进位。",
+      "answers": [
+        "低位"
+      ],
+      "answerText": "低位",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-062",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 62,
+      "prompt": "74HC85 是 ________ 位数值比较器，先比 ________ 位。",
+      "promptHtml": "74HC85 是 <span class=\"blank\">______</span> 位数值比较器，先比 <span class=\"blank\">______</span> 位。",
+      "answers": [
+        "四",
+        "高"
+      ],
+      "answerText": "四；高",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-063",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 63,
+      "prompt": "74LS47 配 ________ 极数码管，段选 ________ 有效。",
+      "promptHtml": "74LS47 配 <span class=\"blank\">______</span> 极数码管，段选 <span class=\"blank\">______</span> 有效。",
+      "answers": [
+        "共阳",
+        "低"
+      ],
+      "answerText": "共阳；低",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-064",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 64,
+      "prompt": "74LS48 配 ________ 极数码管，段选 ________ 有效。",
+      "promptHtml": "74LS48 配 <span class=\"blank\">______</span> 极数码管，段选 <span class=\"blank\">______</span> 有效。",
+      "answers": [
+        "共阴",
+        "高"
+      ],
+      "answerText": "共阴；高",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-065",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 65,
+      "prompt": "共阳极公共端接 ________ 电平，a 端接低电平时发光。",
+      "promptHtml": "共阳极公共端接 <span class=\"blank\">______</span> 电平，a 端接低电平时发光。",
+      "answers": [
+        "高"
+      ],
+      "answerText": "高",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-066",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 66,
+      "prompt": "共阴极公共端接 ________，a 端接高电平时发光。",
+      "promptHtml": "共阴极公共端接 <span class=\"blank\">______</span>，a 端接高电平时发光。",
+      "answers": [
+        "地（低）"
+      ],
+      "answerText": "地（低）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-067",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 67,
+      "prompt": "74LS148 与 74LS147 区别：147 为 10 线 ________ 优先编码。",
+      "promptHtml": "74LS148 与 74LS147 区别：147 为 10 线 <span class=\"blank\">______</span> 优先编码。",
+      "answers": [
+        "BCD"
+      ],
+      "answerText": "BCD",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-068",
+      "subjectId": "digital",
+      "chapterId": "digital-5",
+      "num": 68,
+      "prompt": "数据选择器又称 ________ 开关。",
+      "promptHtml": "数据选择器又称 <span class=\"blank\">______</span> 开关。",
+      "answers": [
+        "多路"
+      ],
+      "answerText": "多路",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d7"
+    },
+    {
+      "id": "digital-069",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 69,
+      "prompt": "触发器存 ________ 位二进制，输出取决于输入 + ________ 状态。",
+      "promptHtml": "触发器存 <span class=\"blank\">______</span> 位二进制，输出取决于输入 + <span class=\"blank\">______</span> 状态。",
+      "answers": [
+        "1",
+        "原始"
+      ],
+      "answerText": "1；原始",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-070",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 70,
+      "prompt": "D 触发器：Qⁿ⁺¹ = ________。",
+      "promptHtml": "D 触发器：Qⁿ⁺¹ = <span class=\"blank\">______</span>。",
+      "answers": [
+        "D"
+      ],
+      "answerText": "D",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-071",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 71,
+      "prompt": "JK 触发器：Qⁿ⁺¹ = JQ̄ⁿ + ________ Qⁿ。",
+      "promptHtml": "JK 触发器：Qⁿ⁺¹ = JQ̄ⁿ + <span class=\"blank\">______</span> Qⁿ。",
+      "answers": [
+        "K̄"
+      ],
+      "answerText": "K̄",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-072",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 72,
+      "prompt": "T 触发器：Qⁿ⁺¹ = TQ̄ⁿ + T̄Qⁿ，实现 ________/保持。",
+      "promptHtml": "T 触发器：Qⁿ⁺¹ = TQ̄ⁿ + T̄Qⁿ，实现 <span class=\"blank\">______</span>/保持。",
+      "answers": [
+        "翻转"
+      ],
+      "answerText": "翻转",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-073",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 73,
+      "prompt": "SR 触发器约束：SR 不能同时为 ________。",
+      "promptHtml": "SR 触发器约束：SR 不能同时为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-074",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 74,
+      "prompt": "基本 RS 触发器任何时候都响应；同步 RS 仅 CP=________ 时响应。",
+      "promptHtml": "基本 RS 触发器任何时候都响应；同步 RS 仅 CP=<span class=\"blank\">______</span> 时响应。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-075",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 75,
+      "prompt": "CP 端无小圆圈 + 三角 → ________ 沿触发。",
+      "promptHtml": "CP 端无小圆圈 + 三角 → <span class=\"blank\">______</span> 沿触发。",
+      "answers": [
+        "上升"
+      ],
+      "answerText": "上升",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-076",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 76,
+      "prompt": "CP 端有小圆圈 + 三角 → ________ 沿触发。",
+      "promptHtml": "CP 端有小圆圈 + 三角 → <span class=\"blank\">______</span> 沿触发。",
+      "answers": [
+        "下降"
+      ],
+      "answerText": "下降",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-077",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 77,
+      "prompt": "电平触发在一个 CP 周期内可能 ________（空翻）。",
+      "promptHtml": "电平触发在一个 CP 周期内可能 <span class=\"blank\">______</span>（空翻）。",
+      "answers": [
+        "空翻"
+      ],
+      "answerText": "空翻",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-078",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 78,
+      "prompt": "边沿触发 ________（有/无）空翻。",
+      "promptHtml": "边沿触发 <span class=\"blank\">______</span>（有/无）空翻。",
+      "answers": [
+        "无"
+      ],
+      "answerText": "无",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-079",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 79,
+      "prompt": "维持阻塞 D 触发器为 ________ 沿触发，克服空翻。",
+      "promptHtml": "维持阻塞 D 触发器为 <span class=\"blank\">______</span> 沿触发，克服空翻。",
+      "answers": [
+        "上升"
+      ],
+      "answerText": "上升",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-080",
+      "subjectId": "digital",
+      "chapterId": "digital-6",
+      "num": 80,
+      "prompt": "D 转 JK：令 D = JQ̄ⁿ + ________ Qⁿ。",
+      "promptHtml": "D 转 JK：令 D = JQ̄ⁿ + <span class=\"blank\">______</span> Qⁿ。",
+      "answers": [
+        "K̄"
+      ],
+      "answerText": "K̄",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d8"
+    },
+    {
+      "id": "digital-081",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 81,
+      "prompt": "同步时序分析第一步：写 ________ 方程。",
+      "promptHtml": "同步时序分析第一步：写 <span class=\"blank\">______</span> 方程。",
+      "answers": [
+        "驱动"
+      ],
+      "answerText": "驱动",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-082",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 82,
+      "prompt": "第二步代入特性方程得 ________ 方程。",
+      "promptHtml": "第二步代入特性方程得 <span class=\"blank\">______</span> 方程。",
+      "answers": [
+        "状态"
+      ],
+      "answerText": "状态",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-083",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 83,
+      "prompt": "模 M 计数器一个循环含 ________ 个状态。",
+      "promptHtml": "模 M 计数器一个循环含 <span class=\"blank\">______</span> 个状态。",
+      "answers": [
+        "M"
+      ],
+      "answerText": "M",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-084",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 84,
+      "prompt": "模 10 计数器至少需要 ________ 个 FF（2⁴=16≥10）。",
+      "promptHtml": "模 10 计数器至少需要 <span class=\"blank\">______</span> 个 FF（2⁴=16≥10）。",
+      "answers": [
+        "4"
+      ],
+      "answerText": "4",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-085",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 85,
+      "prompt": "自启动指偏离有效序列后能自动回到 ________ 循环。",
+      "promptHtml": "自启动指偏离有效序列后能自动回到 <span class=\"blank\">______</span> 循环。",
+      "answers": [
+        "有效"
+      ],
+      "answerText": "有效",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-086",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 86,
+      "prompt": "同步计数器所有 FF 同 ________；异步为 ________ 触发。",
+      "promptHtml": "同步计数器所有 FF 同 <span class=\"blank\">______</span>；异步为 <span class=\"blank\">______</span> 触发。",
+      "answers": [
+        "CP",
+        "逐级"
+      ],
+      "answerText": "CP；逐级",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-087",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 87,
+      "prompt": "74LS161 CP 为 ________ 沿有效；RD̄ 为 ________ 清零。",
+      "promptHtml": "74LS161 CP 为 <span class=\"blank\">______</span> 沿有效；RD̄ 为 <span class=\"blank\">______</span> 清零。",
+      "answers": [
+        "上升",
+        "异步"
+      ],
+      "answerText": "上升；异步",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-088",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 88,
+      "prompt": "74LS161 LD̄ 为 ________ 置数；EP=ET=________ 才计数。",
+      "promptHtml": "74LS161 LD̄ 为 <span class=\"blank\">______</span> 置数；EP=ET=<span class=\"blank\">______</span> 才计数。",
+      "answers": [
+        "同步",
+        "1"
+      ],
+      "answerText": "同步；1",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-089",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 89,
+      "prompt": "161 级联：低位 ET=1，高位 ET 接低位 ________。",
+      "promptHtml": "161 级联：低位 ET=1，高位 ET 接低位 <span class=\"blank\">______</span>。",
+      "answers": [
+        "C（进位）"
+      ],
+      "answerText": "C（进位）",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-090",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 90,
+      "prompt": "清零法第 M+1 态为 ________ 态；置数法第 M 态为 ________ 态。",
+      "promptHtml": "清零法第 M+1 态为 <span class=\"blank\">______</span> 态；置数法第 M 态为 <span class=\"blank\">______</span> 态。",
+      "answers": [
+        "暂",
+        "稳"
+      ],
+      "answerText": "暂；稳",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-091",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 91,
+      "prompt": "十进制清零法：计到 ________（1010）时 RD̄=0。",
+      "promptHtml": "十进制清零法：计到 <span class=\"blank\">______</span>（1010）时 RD̄=0。",
+      "answers": [
+        "1010"
+      ],
+      "answerText": "1010",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-092",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 92,
+      "prompt": "十进制置数法：计到 ________（1001）时 LD̄=0，D 接 0000。",
+      "promptHtml": "十进制置数法：计到 <span class=\"blank\">______</span>（1001）时 LD̄=0，D 接 0000。",
+      "answers": [
+        "1001"
+      ],
+      "answerText": "1001",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-093",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 93,
+      "prompt": "74LS193 加计数用 ________ 上升沿；减计数用 CPD 上升沿。",
+      "promptHtml": "74LS193 加计数用 <span class=\"blank\">______</span> 上升沿；减计数用 CPD 上升沿。",
+      "answers": [
+        "CPU"
+      ],
+      "answerText": "CPU",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-094",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 94,
+      "prompt": "74LS290 仅 CP0 → 模 ________；Q0 接 CP1 → 模 ________。",
+      "promptHtml": "74LS290 仅 CP0 → 模 <span class=\"blank\">______</span>；Q0 接 CP1 → 模 <span class=\"blank\">______</span>。",
+      "answers": [
+        "2",
+        "10"
+      ],
+      "answerText": "2；10",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-095",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 95,
+      "prompt": "74194 的 S1S0=01 为 ________ 移；S1S0=11 为并行 ________。",
+      "promptHtml": "74194 的 S1S0=01 为 <span class=\"blank\">______</span> 移；S1S0=11 为并行 <span class=\"blank\">______</span>。",
+      "answers": [
+        "右",
+        "加载"
+      ],
+      "answerText": "右；加载",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-096",
+      "subjectId": "digital",
+      "chapterId": "digital-7",
+      "num": 96,
+      "prompt": "74194 的 S1S0=00 为 ________。",
+      "promptHtml": "74194 的 S1S0=00 为 <span class=\"blank\">______</span>。",
+      "answers": [
+        "保持"
+      ],
+      "answerText": "保持",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "digital"
+    },
+    {
+      "id": "digital-097",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 97,
+      "prompt": "DAC 将 ________ 信号转为 ________ 信号。",
+      "promptHtml": "DAC 将 <span class=\"blank\">______</span> 信号转为 <span class=\"blank\">______</span> 信号。",
+      "answers": [
+        "数字",
+        "模拟"
+      ],
+      "answerText": "数字；模拟",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-098",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 98,
+      "prompt": "n 位 DAC 最多 ________ 个模拟输出等级。",
+      "promptHtml": "n 位 DAC 最多 <span class=\"blank\">______</span> 个模拟输出等级。",
+      "answers": [
+        "2ⁿ"
+      ],
+      "answerText": "2ⁿ",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-099",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 99,
+      "prompt": "ADC 四步：采样 → ________ → 量化 → ________。",
+      "promptHtml": "ADC 四步：采样 → <span class=\"blank\">______</span> → 量化 → <span class=\"blank\">______</span>。",
+      "answers": [
+        "保持",
+        "编码"
+      ],
+      "answerText": "保持；编码",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-100",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 100,
+      "prompt": "采样定理：fs ≥ ________ fmax。",
+      "promptHtml": "采样定理：fs ≥ <span class=\"blank\">______</span> fmax。",
+      "answers": [
+        "2"
+      ],
+      "answerText": "2",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-101",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 101,
+      "prompt": "量化单位 = 满量程 / ________。",
+      "promptHtml": "量化单位 = 满量程 / <span class=\"blank\">______</span>。",
+      "answers": [
+        "2ⁿ"
+      ],
+      "answerText": "2ⁿ",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-102",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 102,
+      "prompt": "并行比较 ADC 速度最 ________；双积分精度高、速度 ________。",
+      "promptHtml": "并行比较 ADC 速度最 <span class=\"blank\">______</span>；双积分精度高、速度 <span class=\"blank\">______</span>。",
+      "answers": [
+        "快",
+        "慢"
+      ],
+      "answerText": "快；慢",
+      "blankCount": 2,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-103",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 103,
+      "prompt": "8421 BCD ________ 普通二进制（填 = 或 ≠）。",
+      "promptHtml": "8421 BCD <span class=\"blank\">______</span> 普通二进制（填 = 或 ≠）。",
+      "answers": [
+        "≠"
+      ],
+      "answerText": "≠",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-104",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 104,
+      "prompt": "清零法用 RD̄；置数法用 ________。",
+      "promptHtml": "清零法用 RD̄；置数法用 <span class=\"blank\">______</span>。",
+      "answers": [
+        "LD̄"
+      ],
+      "answerText": "LD̄",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-105",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 105,
+      "prompt": "编码 多→少；译码 少→ ________。",
+      "promptHtml": "编码 多→少；译码 少→ <span class=\"blank\">______</span>。",
+      "answers": [
+        "多"
+      ],
+      "answerText": "多",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-106",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 106,
+      "prompt": "OC 门 → 线与；148 → 优先编码 ________ 有效。",
+      "promptHtml": "OC 门 → 线与；148 → 优先编码 <span class=\"blank\">______</span> 有效。",
+      "answers": [
+        "低"
+      ],
+      "answerText": "低",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-107",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 107,
+      "prompt": "161: RD̄异步 LD̄同步；193: MR清零 PL ________。",
+      "promptHtml": "161: RD̄异步 LD̄同步；193: MR清零 PL <span class=\"blank\">______</span>。",
+      "answers": [
+        "加载"
+      ],
+      "answerText": "加载",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-108",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 108,
+      "prompt": "时序大题必查 ________ 特性。",
+      "promptHtml": "时序大题必查 <span class=\"blank\">______</span> 特性。",
+      "answers": [
+        "自启动"
+      ],
+      "answerText": "自启动",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-109",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 109,
+      "prompt": "组合大题高频：设计 ________ 步。",
+      "promptHtml": "组合大题高频：设计 <span class=\"blank\">______</span> 步。",
+      "answers": [
+        "五"
+      ],
+      "answerText": "五",
+      "blankCount": 1,
+      "must": true,
+      "readAnchor": "d11"
+    },
+    {
+      "id": "digital-110",
+      "subjectId": "digital",
+      "chapterId": "digital-8",
+      "num": 110,
+      "prompt": "卡诺图相邻格只有 ________ 位不同。",
+      "promptHtml": "卡诺图相邻格只有 <span class=\"blank\">______</span> 位不同。",
+      "answers": [
+        "1"
+      ],
+      "answerText": "1",
+      "blankCount": 1,
+      "must": false,
+      "readAnchor": "d11"
+    }
+  ]
+}

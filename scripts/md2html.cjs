@@ -418,6 +418,7 @@ function buildPageShell(toc, content) {
 ${toc}
     </nav>
     <p class="sidebar-foot">
+      <a href="quiz.html">✍️ 填空练习</a><br>
       <a href="https://github.com/mianmianlingqi/-Electronics-and-Information-note">GitHub</a>
     </p>
   </aside>

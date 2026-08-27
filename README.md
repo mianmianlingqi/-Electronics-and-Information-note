@@ -25,6 +25,7 @@
 | [03 数字电子技术背诵速记](背诵速记/03-数字电子技术背诵速记.md) | 数制/BCD、逻辑公式、卡诺图、组合/时序、161、ADC |
 | [知识点速览（Pages）](https://mianmianlingqi.github.io/-Electronics-and-Information-note/) | 三科在线阅读，公式预渲染 + 模电原图 |
 | [填空卷（自测）](背诵速记/填空卷/README.md) | 三科学生卷 + 答案，合计 **310 题** |
+| [填空练习](quiz.html) | 一题一卡 · 显示答案 · 错题本 · 间隔复习 |
 
 ## 使用说明
 
