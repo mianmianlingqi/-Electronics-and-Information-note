@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <rect width="720" height="360" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS193 ÛMeï¡ph  Ÿýh</text>
+
+  <rect x="40" y="50" width="640" height="220" rx="6" fill="#fff" stroke="#cbd5e1"/>
+
+  <rect x="40" y="50" width="640" height="32" fill="#1e293b"/>
+  <text x="70" y="71" font-size="11" fill="#fff" font-weight="600">MR</text>
+  <text x="120" y="71" font-size="11" fill="#fff" font-weight="600">PL</text>
+  <text x="170" y="71" font-size="11" fill="#fff" font-weight="600">CPU</text>
+  <text x="230" y="71" font-size="11" fill="#fff" font-weight="600">CPD</text>
+  <text x="380" y="71" font-size="11" fill="#fff" font-weight="600">Ÿý</text>
+
+  <g font-size="11" fill="#334155">
+    <rect x="40" y="82" width="640" height="26" fill="#fef2f2"/>
+    <text x="70" y="99">0</text><text x="120" y="99">×</text><text x="170" y="99">×</text><text x="230" y="99">×</text>
+    <text x="300" y="99" font-weight="600" fill="#b91c1c">eö Q=0000</text>
+
+    <rect x="40" y="108" width="640" height="26" fill="#fff"/>
+    <text x="70" y="125">1</text><text x="120" y="125">0</text><text x="170" y="125">×</text><text x="230" y="125">×</text>
+    <text x="300" y="125" font-weight="600" fill="#1d4ed8">evL } D3D2D1D0</text>
+
+    <rect x="40" y="134" width="640" height="26" fill="#f0fdf4"/>
+    <text x="70" y="151">1</text><text x="120" y="151">1</text><text x="170" y="151">‘</text><text x="230" y="151">1</text>
+    <text x="300" y="151" font-weight="600" fill="#15803d"> ¡p +1CPU 
+G¿	</text>
+
+    <rect x="40" y="160" width="640" height="26" fill="#fff"/>
+    <text x="70" y="177">1</text><text x="120" y="177">1</text><text x="170" y="177">1</text><text x="230" y="177">‘</text>
+    <text x="300" y="177" font-weight="600" fill="#b45309">Ï¡p -1CPD 
+G¿	</text>
+
+    <rect x="40" y="186" width="640" height="26" fill="#f8fafc"/>
+    <text x="70" y="203">1</text><text x="120" y="203">1</text><text x="170" y="203">1</text><text x="230" y="203">1</text>
+    <text x="300" y="203">Ý</text>
+  </g>
+
+  <rect x="40" y="280" width="640" height="62" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="360" y="302" text-anchor="middle" font-size="12" fill="#475569"> 161 :+193 à EP/ET( CPU/CPD +§6 /Ï</text>
+  <text x="360" y="322" text-anchor="middle" font-size="11" fill="#64748b">MR eö · PL e } · ÌöŸï¡p²BŒáŸýh	</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <rect width="720" height="340" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS42 BCD-AÛ6Ñh  ŸýFþ</text>
+
+  <rect x="220" y="70" width="280" height="180" rx="8" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="360" y="100" text-anchor="middle" font-size="15" font-weight="700">74LS42</text>
+  <text x="360" y="120" text-anchor="middle" font-size="12" fill="#64748b">4 M BCD ’ 10 ï“ú Y0~Y9</text>
+
+  <text x="240" y="155" font-size="12" fill="#334155">“e A3 A2 A1 A0</text>
+  <text x="240" y="180" font-size="12" fill="#334155">	H0000~1001</text>
+  <text x="240" y="205" font-size="12" fill="#b91c1c">àH1010~1111</text>
+
+  <rect x="250" y="220" width="220" height="30" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="360" y="240" text-anchor="middle" font-size="11" fill="#166534">“e/à ’ ,à÷“ú	HN	H	</text>
+
+  <text x="540" y="150" font-size="12">Y0~Y9</text>
+  <text x="540" y="175" font-size="10" fill="#64748b">N	H	</text>
+
+  <rect x="40" y="270" width="640" height="52" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="360" y="292" text-anchor="middle" font-size="12" fill="#475569"> 74LS138ŒÛ6 3-8 Ñ	êÑ BCD „ 0~9</text>
+  <text x="360" y="310" text-anchor="middle" font-size="11" fill="#64748b">“úN	H1010~1111 “eö@	“úàHh 1	</text>
+</svg>

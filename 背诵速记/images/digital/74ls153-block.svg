@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <rect width="720" height="380" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS153 四选一数据选择器 — 功能框图</text>
+  <rect x="180" y="70" width="360" height="220" rx="8" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="360" y="100" text-anchor="middle" font-size="15" font-weight="700">74LS153</text>
+  <text x="360" y="120" text-anchor="middle" font-size="12" fill="#64748b">双 4 选 1 · 共用地址 A B</text>
+  <rect x="210" y="140" width="140" height="70" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="280" y="165" text-anchor="middle" font-size="12" fill="#1e40af">MUX 1</text>
+  <text x="280" y="185" text-anchor="middle" font-size="10">D0~D3 to 1Y</text>
+  <text x="280" y="200" text-anchor="middle" font-size="10">E1 enable</text>
+  <rect x="370" y="140" width="140" height="70" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="440" y="165" text-anchor="middle" font-size="12" fill="#1e40af">MUX 2</text>
+  <text x="440" y="185" text-anchor="middle" font-size="10">D0~D3 to 2Y</text>
+  <text x="440" y="200" text-anchor="middle" font-size="10">E2 enable</text>
+  <rect x="270" y="230" width="180" height="40" rx="4" fill="#fef3c7" stroke="#d97706"/>
+  <text x="360" y="255" text-anchor="middle" font-size="11" fill="#92400e">地址 AB 选通：Y = D[AB]</text>
+  <rect x="40" y="310" width="640" height="58" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="360" y="332" text-anchor="middle" font-size="12" fill="#475569">E=0 时工作；控制码是几，第几号数据送到输出端</text>
+  <text x="360" y="352" text-anchor="middle" font-size="11" fill="#64748b">n 位地址选 2^n 路；实现逻辑函数时常用于 K大于n 的情况</text>
+</svg>

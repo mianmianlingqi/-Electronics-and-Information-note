@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <rect width="720" height="380" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS290 e 2-5-10 Û6¡ph  ŸýFþ</text>
+
+  <rect x="120" y="80" width="180" height="100" rx="6" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="210" y="110" text-anchor="middle" font-size="13" font-weight="700">÷2 æÑh</text>
+  <text x="210" y="130" text-anchor="middle" font-size="10" fill="#64748b">CP0 ’ Q0</text>
+  <text x="210" y="148" text-anchor="middle" font-size="10" fill="#64748b">R01 R02 ö</text>
+
+  <rect x="380" y="80" width="220" height="100" rx="6" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="490" y="110" text-anchor="middle" font-size="13" font-weight="700">÷5 ¡ph</text>
+  <text x="490" y="130" text-anchor="middle" font-size="10" fill="#64748b">CP1 ’ Q1 Q2 Q3</text>
+  <text x="490" y="148" text-anchor="middle" font-size="10" fill="#64748b">R91 R92 ö</text>
+
+  <line x1="300" y1="130" x2="380" y2="130" stroke="#334155" stroke-width="2"/>
+  <text x="340" y="122" text-anchor="middle" font-size="10" fill="#64748b">Q0’CP1</text>
+
+  <rect x="40" y="210" width="640" height="150" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="360" y="234" text-anchor="middle" font-size="13" font-weight="600">	Í(Õ</text>
+  <text x="60" y="258" font-size="11" fill="#475569">` Uì CP0 ’ </text>
+  <text x="180" y="258" font-size="11" fill="#1d4ed8" font-weight="600">! 2</text>
+  <text x="220" y="258" font-size="11" fill="#475569">¡pŒÛ6	</text>
+  <text x="60" y="280" font-size="11" fill="#475569">a Uì CP1 ’ </text>
+  <text x="180" y="280" font-size="11" fill="#1d4ed8" font-weight="600">! 5</text>
+  <text x="220" y="280" font-size="11" fill="#475569">¡p”Û6	</text>
+  <text x="60" y="302" font-size="11" fill="#475569">b Q0 ¥ CP1 ’ </text>
+  <text x="190" y="302" font-size="11" fill="#15803d" font-weight="600">! 10</text>
+  <text x="240" y="302" font-size="11" fill="#475569">AÛ6¡pe	</text>
+  <text x="60" y="324" font-size="11" fill="#64748b">y¹e¡p ·  161 e¡pùÔR ïN	Heö</text>
+  <text x="60" y="344" font-size="11" fill="#64748b">$G 290 §Tï„ô'Û6‚ 100 Û6	</text>
+</svg>

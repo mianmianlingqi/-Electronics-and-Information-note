@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#334155"/></marker>
+  </defs>
+  <rect width="700" height="380" fill="#f8fafc"/>
+  <text x="350" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS161 ÑA€6°ph  ˆ’</text>
+
+  <!-- 161 chip -->
+  <rect x="250" y="80" width="200" height="120" rx="6" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="350" y="110" text-anchor="middle" font-size="14" font-weight="700">74LS161</text>
+  <text x="350" y="130" text-anchor="middle" font-size="11" fill="#64748b">EP=ET=1 ∑ LD=1</text>
+  <text x="265" y="155" font-size="11">RD ê</text>
+  <text x="265" y="175" font-size="11">CP ë</text>
+  <text x="400" y="155" font-size="11">í QD QC QB QA</text>
+
+  <!-- NAND gate -->
+  <path d="M470 220 h30 a15 15 0 0 1 0 30 h-30 z" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <circle cx="515" cy="235" r="4" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="485" y="240" text-anchor="middle" font-size="12" font-weight="600">&amp;</text>
+  <text x="530" y="240" font-size="11">í RD</text>
+
+  <!-- Connections from Q -->
+  <text x="470" y="200" font-size="11">QD</text>
+  <line x1="455" y1="196" x2="470" y2="228" stroke="#334155"/>
+  <text x="420" y="215" font-size="11">QC</text>
+  <line x1="435" y1="211" x2="470" y2="235" stroke="#334155"/>
+  <text x="385" y="230" font-size="11">QA</text>
+  <line x1="400" y1="226" x2="470" y2="242" stroke="#334155"/>
+
+  <!-- Feedback to RD -->
+  <path d="M525 235 C560 235 560 170 450 170" fill="none" stroke="#dc2626" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- State sequence -->
+  <rect x="40" y="280" width="620" height="80" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="350" y="302" text-anchor="middle" font-size="13" font-weight="600" fill="#334155">°pè</text>
+  <text x="60" y="325" font-size="12" fill="#475569">0000 í 0001 í & í 1001(9) í </text>
+  <text x="340" y="325" font-size="12" fill="#b91c1c" font-weight="600">1010(10 Ç)</text>
+  <text x="490" y="325" font-size="12" fill="#475569">í RD=0 í 0000</text>
+  <text x="60" y="348" font-size="11" fill="#64748b">—S QD∑QC∑QA = 1s 1010	ˆ^Ëì˙N5sÊ—eˆ</text>
+</svg>

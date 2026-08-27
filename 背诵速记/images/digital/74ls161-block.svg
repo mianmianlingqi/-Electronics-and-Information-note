@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#334155"/>
+    </marker>
+  </defs>
+  <rect width="720" height="420" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">74LS161 €Må€6e†’°ph  ü˝F˛</text>
+
+  <!-- Main block -->
+  <rect x="220" y="70" width="280" height="260" rx="8" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="360" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1e293b">74LS161</text>
+  <text x="360" y="118" text-anchor="middle" font-size="12" fill="#64748b">4 Me†’°ph</text>
+
+  <!-- Internal FF blocks -->
+  <rect x="250" y="140" width="50" height="36" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="275" y="162" text-anchor="middle" font-size="12" fill="#1e40af">FF0</text>
+  <rect x="310" y="140" width="50" height="36" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="335" y="162" text-anchor="middle" font-size="12" fill="#1e40af">FF1</text>
+  <rect x="370" y="140" width="50" height="36" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="395" y="162" text-anchor="middle" font-size="12" fill="#1e40af">FF2</text>
+  <rect x="430" y="140" width="50" height="36" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="455" y="162" text-anchor="middle" font-size="12" fill="#1e40af">FF3</text>
+
+  <!-- Control logic -->
+  <rect x="250" y="200" width="230" height="50" rx="4" fill="#fef3c7" stroke="#d97706"/>
+  <text x="365" y="222" text-anchor="middle" font-size="11" fill="#92400e">°p˝;ë (EP ∑ ET ∑ h 1 ¿K)</text>
+  <text x="365" y="238" text-anchor="middle" font-size="11" fill="#92400e">eˆ RD ∑ enp LD</text>
+
+  <!-- Load mux -->
+  <rect x="250" y="265" width="230" height="40" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="365" y="290" text-anchor="middle" font-size="11" fill="#166534">pn	ÈLD=0 †} D0~D3LD=1 °p +1</text>
+
+  <!-- Left inputs -->
+  <text x="30" y="152" font-size="13" fill="#334155">D0 (A)</text>
+  <line x1="80" y1="148" x2="250" y2="158" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="30" y="182" font-size="13" fill="#334155">D1 (B)</text>
+  <line x1="80" y1="178" x2="250" y2="168" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="30" y="212" font-size="13" fill="#334155">D2 (C)</text>
+  <line x1="80" y1="208" x2="250" y2="178" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="30" y="242" font-size="13" fill="#334155">D3 (D)</text>
+  <line x1="80" y1="238" x2="250" y2="188" stroke="#334155" marker-end="url(#arrow)"/>
+
+  <text x="18" y="290" font-size="13" fill="#334155">CP ë</text>
+  <line x1="60" y1="286" x2="250" y2="286" stroke="#dc2626" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="12" y="320" font-size="13" fill="#334155">RD</text>
+  <line x1="60" y1="316" x2="250" y2="216" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="12" y="350" font-size="13" fill="#334155">LD</text>
+  <line x1="60" y1="346" x2="250" y2="226" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="22" y="380" font-size="13" fill="#334155">EP</text>
+  <line x1="60" y1="376" x2="250" y2="210" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="22" y="405" font-size="13" fill="#334155">ET</text>
+  <line x1="60" y1="401" x2="250" y2="220" stroke="#334155" marker-end="url(#arrow)"/>
+
+  <!-- Right outputs -->
+  <text x="540" y="152" font-size="13" fill="#334155">Q0 (QA)</text>
+  <line x1="480" y1="158" x2="530" y2="148" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="540" y="182" font-size="13" fill="#334155">Q1 (QB)</text>
+  <line x1="480" y1="168" x2="530" y2="178" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="540" y="212" font-size="13" fill="#334155">Q2 (QC)</text>
+  <line x1="480" y1="178" x2="530" y2="208" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="540" y="242" font-size="13" fill="#334155">Q3 (QD)</text>
+  <line x1="480" y1="188" x2="530" y2="238" stroke="#334155" marker-end="url(#arrow)"/>
+  <text x="555" y="290" font-size="13" fill="#334155">C (€M)</text>
+  <line x1="480" y1="220" x2="545" y2="286" stroke="#334155" marker-end="url(#arrow)"/>
+
+  <!-- Legend -->
+  <rect x="520" y="320" width="180" height="82" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="610" y="342" text-anchor="middle" font-size="12" font-weight="600" fill="#334155">Â\Åπ</text>
+  <text x="530" y="362" font-size="11" fill="#475569">" CP 
+GøÊ—</text>
+  <text x="530" y="378" font-size="11" fill="#475569">" RD=0 Àsˆ</text>
+  <text x="530" y="394" font-size="11" fill="#475569">" EP=ET=1 M°p</text>
+</svg>

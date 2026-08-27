@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+  <rect width="680" height="320" fill="#f8fafc"/>
+  <text x="340" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">74LS161 ßTi°pMΩ  ü˝:</text>
+
+  <!-- Chip 1 -->
+  <rect x="60" y="70" width="160" height="100" rx="6" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="140" y="95" text-anchor="middle" font-size="13" font-weight="700">161 (NM)</text>
+  <text x="140" y="115" text-anchor="middle" font-size="10" fill="#64748b">EP=ET=1</text>
+  <text x="75" y="140" font-size="10">CP ë</text>
+  <text x="75" y="158" font-size="10">RD=1, LD=1</text>
+  <text x="170" y="140" font-size="10">Q0~Q3</text>
+  <text x="170" y="158" font-size="10">C í</text>
+
+  <!-- Chip 2 -->
+  <rect x="300" y="70" width="160" height="100" rx="6" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <text x="380" y="95" text-anchor="middle" font-size="13" font-weight="700">161 (ÿM)</text>
+  <text x="380" y="115" text-anchor="middle" font-size="10" fill="#64748b">EP=1, ET=0</text>
+  <text x="315" y="140" font-size="10">CP ë</text>
+  <text x="315" y="158" font-size="10">ET ê C</text>
+  <text x="410" y="140" font-size="10">Q4~Q7</text>
+
+  <!-- Connection -->
+  <line x1="230" y1="155" x2="300" y2="155" stroke="#dc2626" stroke-width="2"/>
+  <text x="265" y="148" text-anchor="middle" font-size="10" fill="#dc2626">€M C</text>
+
+  <!-- Shared clock -->
+  <line x1="140" y1="190" x2="140" y2="220" stroke="#334155"/>
+  <line x1="380" y1="190" x2="380" y2="220" stroke="#334155"/>
+  <line x1="140" y1="220" x2="380" y2="220" stroke="#334155"/>
+  <text x="260" y="240" text-anchor="middle" font-size="11" fill="#475569">CP q(e°p	</text>
+
+  <rect x="40" y="260" width="600" height="48" rx="6" fill="#fff" stroke="#cbd5e1"/>
+  <text x="340" y="282" text-anchor="middle" font-size="12" fill="#475569">NMG ET=1 ß€MÿMG ET •NM CEP=1</text>
+  <text x="340" y="300" text-anchor="middle" font-size="11" fill="#64748b">$GßT í 8 Må€6°ph256 €6	</text>
+</svg>
